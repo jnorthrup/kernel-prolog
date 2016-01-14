@@ -1,0 +1,8 @@
+<map id="prolog.fluents.DataBase" name="prolog.fluents.DataBase">
+<area shape="rect" id="node2" href="$d2/d8d/classprolog_1_1fluents_1_1BlackBoard.html" title="This class implementes generic multiple tuples by key operations for use by the PrologBlackBoard clas..." alt="" coords="5,840,176,1005"/>
+<area shape="rect" id="node3" href="$de/dd4/classprolog_1_1fluents_1_1HashDict.html" title="General purpose dictionary. " alt="" coords="11,669,170,761"/>
+<area shape="rect" id="node5" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="200,825,333,1020"/>
+<area shape="rect" id="node10" href="$d8/dad/classprolog_1_1terms_1_1Nil.html" title="Special constant terminating a list. " alt="" coords="213,1229,328,1321"/>
+<area shape="rect" id="node6" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="197,655,337,776"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="201,132,332,605"/>
+</map>

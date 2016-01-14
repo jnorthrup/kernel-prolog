@@ -1,0 +1,6 @@
+<map id="prolog.builtins.reconsult_again" name="prolog.builtins.reconsult_again">
+<area shape="rect" id="node2" href="$d9/db9/classprolog_1_1terms_1_1ConstBuiltin.html" title="Template for builtins of arity 0. " alt="" coords="5,1152,175,1259"/>
+<area shape="rect" id="node3" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="23,821,157,1104"/>
+<area shape="rect" id="node4" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="20,652,160,773"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="25,131,155,604"/>
+</map>

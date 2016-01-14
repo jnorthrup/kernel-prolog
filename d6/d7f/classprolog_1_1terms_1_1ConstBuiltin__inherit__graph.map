@@ -1,0 +1,9 @@
+<map id="prolog.terms.ConstBuiltin" name="prolog.terms.ConstBuiltin">
+<area shape="rect" id="node7" href="$d9/d4a/classprolog_1_1builtins_1_1halt.html" title="does its best to halt the program:&#45;) " alt="" coords="5,1314,132,1406"/>
+<area shape="rect" id="node8" href="$dd/dcc/classprolog_1_1builtins_1_1reconsult__again.html" title="shorthand for reconsulting the last file " alt="" coords="156,1307,315,1413"/>
+<area shape="rect" id="node9" href="$de/d2f/classprolog_1_1terms_1_1fail__.html" title="Always fails. " alt="" coords="339,1314,462,1406"/>
+<area shape="rect" id="node10" href="$d8/d36/classprolog_1_1terms_1_1true__.html" title="Always succeeds. " alt="" coords="487,1314,613,1406"/>
+<area shape="rect" id="node2" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="251,821,385,1104"/>
+<area shape="rect" id="node3" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="248,652,388,773"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="253,131,383,604"/>
+</map>

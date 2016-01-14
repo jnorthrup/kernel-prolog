@@ -1,0 +1,10 @@
+<map id="prolog.terms.Term.getArity" name="prolog.terms.Term.getArity">
+<area shape="rect" id="node2" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a5334e8934d6aa83d3bd13b7b38d3992a.html#a5334e8934d6aa83d3bd13b7b38d3992a" title="Detects that a clause is ground (i.e. " alt="" coords="231,5,409,47"/>
+<area shape="rect" id="node6" href="$d8/d35/classprolog_1_1Init_a34d43d3123bb194902cbcb1c06194cce.html#a34d43d3123bb194902cbcb1c06194cce" title="evalutes a query " alt="" coords="253,71,387,98"/>
+<area shape="rect" id="node3" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a00d8b13e5351a9f8c1ef80de688cd266.html#a00d8b13e5351a9f8c1ef80de688cd266" title="Reads a goal as a clause containing a dummy header with all variables in it. " alt="" coords="457,13,639,39"/>
+<area shape="rect" id="node4" href="$d6/dc4/classprolog_1_1terms_1_1Clause_aff298dbb79a27341afb0860f82ad1464.html#aff298dbb79a27341afb0860f82ad1464" title="prolog.terms.Clause.goal\lFromString" alt="" coords="687,5,853,47"/>
+<area shape="rect" id="node5" href="$d8/d35/classprolog_1_1Init_a0f6db95b70444cd1b933f24ec44814e4.html#a0f6db95b70444cd1b933f24ec44814e4" title="prolog.Init.getGoal" alt="" coords="901,13,1029,39"/>
+<area shape="rect" id="node7" href="$d8/d35/classprolog_1_1Init_a2471811f50fbed4de5df26ee530f1e2e.html#a2471811f50fbed4de5df26ee530f1e2e" title="evaluates and times a Goal querying program P " alt="" coords="481,71,615,98"/>
+<area shape="rect" id="node8" href="$d8/d35/classprolog_1_1Init_a0348efff7140aed75f8364f90b7c2b8b.html#a0348efff7140aed75f8364f90b7c2b8b" title="prolog.Init.run_query" alt="" coords="700,71,840,98"/>
+<area shape="rect" id="node9" href="$d8/d35/classprolog_1_1Init_a3e8704cf8b2d909fccc79e967dd48171.html#a3e8704cf8b2d909fccc79e967dd48171" title="prolog.Init.standardTop" alt="" coords="693,122,847,149"/>
+</map>

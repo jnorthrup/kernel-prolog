@@ -1,0 +1,10 @@
+<map id="prolog.terms.Sink" name="prolog.terms.Sink">
+<area shape="rect" id="node8" href="$df/de7/classprolog_1_1fluents_1_1StringSink.html" title="Builds Fluents from Java Streams. " alt="" coords="5,1381,169,1502"/>
+<area shape="rect" id="node9" href="$dd/d70/classprolog_1_1fluents_1_1TermCollector.html" title="Builds Fluents from Java Streams. " alt="" coords="194,1373,381,1509"/>
+<area shape="rect" id="node10" href="$db/de8/classprolog_1_1io_1_1CharWriter.html" title="Writer. " alt="" coords="405,1381,543,1502"/>
+<area shape="rect" id="node2" href="$d9/d3b/classprolog_1_1terms_1_1Fluent.html" title="A Fluent is a Prolog Object which has its own state, subject to changes over time. " alt="" coords="220,1020,355,1171"/>
+<area shape="rect" id="node3" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="197,821,378,972"/>
+<area shape="rect" id="node4" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="217,652,357,773"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="222,131,353,604"/>
+<area shape="rect" id="node11" href="$d4/dcc/classprolog_1_1io_1_1ClauseWriter.html" title="Writer. " alt="" coords="399,1557,549,1664"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="prolog.terms.Term.exec" name="prolog.terms.Term.exec">
+<area shape="rect" id="node2" href="$df/d94/classprolog_1_1terms_1_1Unfolder_ae1840746f212e74a2beb717c3a794d3a.html#ae1840746f212e74a2beb717c3a794d3a" title="Reduces builtin functions after the neck of a clause, before a &quot;real&quot; atom is unfolded. " alt="" coords="213,5,404,47"/>
+<area shape="rect" id="node3" href="$df/d94/classprolog_1_1terms_1_1Unfolder_a82021b31093362b5f28314f871cb3f85.html#a82021b31093362b5f28314f871cb3f85" title="Creates an Unfolder based on goal clause g for resolution step in program p. " alt="" coords="452,13,652,39"/>
+</map>

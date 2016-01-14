@@ -1,0 +1,8 @@
+<map id="prolog.builtins.Builtins.toFunBuiltin" name="prolog.builtins.Builtins.toFunBuiltin">
+<area shape="rect" id="node2" href="$de/d8d/classprolog_1_1terms_1_1Fun_a73b5a4f366ac3ac161f7b148f44b8cfa.html#a73b5a4f366ac3ac161f7b148f44b8cfa" title="prolog.terms.Fun.funClone" alt="" coords="218,5,394,32"/>
+<area shape="rect" id="node4" href="$de/d8d/classprolog_1_1terms_1_1Fun_a17d595f2ab8b5c173c519ad5341015c5.html#a17d595f2ab8b5c173c519ad5341015c5" title="prolog.terms.Fun.getArity" alt="" coords="221,56,391,83"/>
+<area shape="rect" id="node5" href="$d0/d3f/classprolog_1_1terms_1_1Const_a947005f966303baeb029a22d9201ea1b.html#a947005f966303baeb029a22d9201ea1b" title="prolog.terms.Const.name" alt="" coords="449,111,619,137"/>
+<area shape="rect" id="node6" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_ab27f40fd74a009d6522fa21da5387cf3.html#ab27f40fd74a009d6522fa21da5387cf3" title="Creates a new builtin. " alt="" coords="217,158,395,199"/>
+<area shape="rect" id="node3" href="$de/d8d/classprolog_1_1terms_1_1Fun_a3d81ecf8879a3612ac7881f753627020.html#a3d81ecf8879a3612ac7881f753627020" title="prolog.terms.Fun.Fun" alt="" coords="461,5,607,32"/>
+<area shape="rect" id="node7" href="$d0/d3f/classprolog_1_1terms_1_1Const_a425467f0c179f71ef11b4beac97ec0b6.html#a425467f0c179f71ef11b4beac97ec0b6" title="returns an arity normally defined as 0 " alt="" coords="443,165,625,192"/>
+</map>

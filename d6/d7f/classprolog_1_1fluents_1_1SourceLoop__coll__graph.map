@@ -1,0 +1,7 @@
+<map id="prolog.fluents.SourceLoop" name="prolog.fluents.SourceLoop">
+<area shape="rect" id="node2" href="$d2/d07/classprolog_1_1terms_1_1Source.html" title="{prolog.terms.Source\n||+ Source()\l+ getElement()\l+ toList()\l+ toFun()\l}" alt="" coords="27,1225,165,1347"/>
+<area shape="rect" id="node3" href="$d9/d3b/classprolog_1_1terms_1_1Fluent.html" title="A Fluent is a Prolog Object which has its own state, subject to changes over time. " alt="" coords="29,1025,163,1176"/>
+<area shape="rect" id="node4" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="5,825,187,976"/>
+<area shape="rect" id="node5" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="26,655,166,776"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="31,132,161,605"/>
+</map>

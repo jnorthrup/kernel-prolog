@@ -1,0 +1,8 @@
+<map id="prolog.io.Lexer.atEOF" name="prolog.io.Lexer.atEOF">
+<area shape="rect" id="node2" href="$d4/dc2/classprolog_1_1io_1_1IO_aaa553b2e5bb8b5de129d38fe67293316.html#aaa553b2e5bb8b5de129d38fe67293316" title="prolog.io.IO.trace" alt="" coords="203,56,325,83"/>
+<area shape="rect" id="node3" href="$d4/dc2/classprolog_1_1io_1_1IO_a22a9a2bfe9fa6e00257369f5bf078a44.html#a22a9a2bfe9fa6e00257369f5bf078a44" title="prolog.io.IO.getStdOutput" alt="" coords="373,5,544,32"/>
+<area shape="rect" id="node4" href="$d4/dc2/classprolog_1_1io_1_1IO_ad851906c6ebd6559eb1b1fa52e26dabb.html#ad851906c6ebd6559eb1b1fa52e26dabb" title="prolog.io.IO.println" alt="" coords="395,56,523,83"/>
+<area shape="rect" id="node7" href="$d6/d92/interfaceprolog_1_1io_1_1IOPeer_a780dd51c62dba4c266286171101b2cee.html#a780dd51c62dba4c266286171101b2cee" title="prolog.io.IOPeer.traceln" alt="" coords="379,107,538,133"/>
+<area shape="rect" id="node5" href="$d4/dc2/classprolog_1_1io_1_1IO_aab64872af087c6cd9c5dd13e9f4eda00.html#aab64872af087c6cd9c5dd13e9f4eda00" title="prolog.io.IO.print" alt="" coords="592,56,711,83"/>
+<area shape="rect" id="node6" href="$d6/d92/interfaceprolog_1_1io_1_1IOPeer_abc1f90b85b358011e2595069d38ac25f.html#abc1f90b85b358011e2595069d38ac25f" title="prolog.io.IOPeer.print" alt="" coords="759,56,904,83"/>
+</map>

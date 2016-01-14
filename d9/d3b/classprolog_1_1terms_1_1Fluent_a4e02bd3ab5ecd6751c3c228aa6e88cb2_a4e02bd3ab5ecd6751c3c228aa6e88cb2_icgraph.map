@@ -1,0 +1,5 @@
+<map id="prolog.terms.Fluent.stop" name="prolog.terms.Fluent.stop">
+<area shape="rect" id="node2" href="$dd/d49/classprolog_1_1builtins_1_1stop_a38b3f74b0807fd1f18da7099748c6d1c.html#a38b3f74b0807fd1f18da7099748c6d1c" title="prolog.builtins.stop.exec" alt="" coords="232,5,395,32"/>
+<area shape="rect" id="node3" href="$d5/dba/classprolog_1_1builtins_1_1discharge_ac8fdc1dab32e95058ea028f4edd1716c.html#ac8fdc1dab32e95058ea028f4edd1716c" title="prolog.builtins.discharge.exec" alt="" coords="216,56,411,83"/>
+<area shape="rect" id="node4" href="$d9/d3b/classprolog_1_1terms_1_1Fluent_a0fbbdfe9445835e68cf9cfa40855f71f.html#a0fbbdfe9445835e68cf9cfa40855f71f" title="applies a non&#45;persistent Fluent&#39;s stop() method on backtracking " alt="" coords="230,107,397,133"/>
+</map>

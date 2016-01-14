@@ -1,0 +1,5 @@
+<map id="prolog.terms.Clause.getKey" name="prolog.terms.Clause.getKey">
+<area shape="rect" id="node2" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a5e5502c9619429232fcb310406256830.html#a5e5502c9619429232fcb310406256830" title="Extracts the head of a clause (a Term). " alt="" coords="237,5,429,32"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_a6724b2651c5023151fee83e78956e112.html#a6724b2651c5023151fee83e78956e112" title="Returns a string key used based on the string name of the term. " alt="" coords="247,56,420,83"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="477,5,624,32"/>
+</map>

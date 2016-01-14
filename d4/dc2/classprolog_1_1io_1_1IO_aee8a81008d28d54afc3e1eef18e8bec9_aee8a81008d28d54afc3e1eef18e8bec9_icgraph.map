@@ -1,0 +1,13 @@
+<map id="prolog.io.IO.toReader" name="prolog.io.IO.toReader">
+<area shape="rect" id="node2" href="$d4/dc2/classprolog_1_1io_1_1IO_adabbaa0f2f7611a67e351c21c075709e.html#adabbaa0f2f7611a67e351c21c075709e" title="prolog.io.IO.url2stream" alt="" coords="200,13,355,40"/>
+<area shape="rect" id="node3" href="$d4/dc2/classprolog_1_1io_1_1IO_ac5428808b7db8cc3cd5b8b82b1b070c4.html#ac5428808b7db8cc3cd5b8b82b1b070c4" title="prolog.io.IO.url_or_file" alt="" coords="203,64,352,91"/>
+<area shape="rect" id="node4" href="$d9/d79/classprolog_1_1io_1_1Lexer_a2d99ab878bc76630acd98497eb801f51.html#a2d99ab878bc76630acd98497eb801f51" title="Path+File name based constructor Used in prolog2java. " alt="" coords="422,5,565,32"/>
+<area shape="rect" id="node5" href="$d5/db0/classprolog_1_1io_1_1CharReader_a47be678a8d6038e2c9a0a666449ea948.html#a47be678a8d6038e2c9a0a666449ea948" title="prolog.io.CharReader.make\lReader" alt="" coords="403,57,584,98"/>
+<area shape="rect" id="node7" href="$d4/dc2/classprolog_1_1io_1_1IO_a6a1a0dd3e007e7182461e9a65742e044.html#a6a1a0dd3e007e7182461e9a65742e044" title="prolog.io.IO.toFileReader" alt="" coords="410,124,577,151"/>
+<area shape="rect" id="node6" href="$d5/db0/classprolog_1_1io_1_1CharReader_adf7a1ea1ae84a418d16bcf83879509aa.html#adf7a1ea1ae84a418d16bcf83879509aa" title="prolog.io.CharReader.Char\lReader" alt="" coords="635,54,812,95"/>
+<area shape="rect" id="node8" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a09001c9a02b98909be7fc84934418ed6.html#a09001c9a02b98909be7fc84934418ed6" title="prolog.fluents.DataBase.file\lToProg" alt="" coords="632,119,815,161"/>
+<area shape="rect" id="node9" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a8b4fed48561a1c3086c94900495508d2.html#a8b4fed48561a1c3086c94900495508d2" title="consults or reconsults a Prolog file by adding or overriding existing predicates to be extended to lo..." alt="" coords="863,127,1076,153"/>
+<area shape="rect" id="node10" href="$d4/d86/classprolog_1_1builtins_1_1reconsult_af4fc0f95b6190b657cdac0b5fbc3240f.html#af4fc0f95b6190b657cdac0b5fbc3240f" title="prolog.builtins.reconsult.exec" alt="" coords="1124,76,1315,103"/>
+<area shape="rect" id="node11" href="$de/def/classprolog_1_1builtins_1_1consult_ada1aa218c46073859081290f7e820d0f.html#ada1aa218c46073859081290f7e820d0f" title="prolog.builtins.consult.exec" alt="" coords="1129,127,1309,153"/>
+<area shape="rect" id="node12" href="$dd/dcc/classprolog_1_1builtins_1_1reconsult__again_af072d724d06b6e38550d6c8d21e10d19.html#af072d724d06b6e38550d6c8d21e10d19" title="prolog.builtins.reconsult\l_again.exec" alt="" coords="1140,178,1299,219"/>
+</map>

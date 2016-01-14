@@ -1,0 +1,6 @@
+<map id="prolog.terms.Fun.putArg" name="prolog.terms.Fun.putArg">
+<area shape="rect" id="node2" href="$d4/d26/classprolog_1_1terms_1_1Prog_a41eac8617a5002806d7137eb36183405.html#a41eac8617a5002806d7137eb36183405" title="prolog.terms.Prog.getTrail" alt="" coords="216,5,388,32"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_a84d8fb7e1f816d0dbe3c2c56ed28fdb9.html#a84d8fb7e1f816d0dbe3c2c56ed28fdb9" title="Dereference and unify_to. " alt="" coords="222,56,382,83"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="452,31,599,57"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_a866b2cca50e77e99b560578b2fa3a91a.html#a866b2cca50e77e99b560578b2fa3a91a" title="Unify dereferenced. " alt="" coords="436,81,615,108"/>
+</map>

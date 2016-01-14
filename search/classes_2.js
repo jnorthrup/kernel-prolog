@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['char_5ffile_5fwriter',['char_file_writer',['../d3/dc3/classprolog_1_1builtins_1_1char__file__writer.html',1,'prolog::builtins']]],
+  ['charreader',['CharReader',['../d5/db0/classprolog_1_1io_1_1CharReader.html',1,'prolog::io']]],
+  ['chars_5fto_5fname',['chars_to_name',['../d3/d8f/classprolog_1_1builtins_1_1chars__to__name.html',1,'prolog::builtins']]],
+  ['charwriter',['CharWriter',['../db/de8/classprolog_1_1io_1_1CharWriter.html',1,'prolog::io']]],
+  ['clause',['Clause',['../d6/dc4/classprolog_1_1terms_1_1Clause.html',1,'prolog::terms']]],
+  ['clause_5ffile_5fwriter',['clause_file_writer',['../db/d0b/classprolog_1_1builtins_1_1clause__file__writer.html',1,'prolog::builtins']]],
+  ['clausereader',['ClauseReader',['../d4/d09/classprolog_1_1io_1_1ClauseReader.html',1,'prolog::io']]],
+  ['clausewriter',['ClauseWriter',['../d4/dcc/classprolog_1_1io_1_1ClauseWriter.html',1,'prolog::io']]],
+  ['collect',['collect',['../df/d49/classprolog_1_1builtins_1_1collect.html',1,'prolog::builtins']]],
+  ['commatoken',['commaToken',['../d5/db3/classprolog_1_1io_1_1commaToken.html',1,'prolog::io']]],
+  ['compute',['compute',['../d9/d12/classprolog_1_1builtins_1_1compute.html',1,'prolog::builtins']]],
+  ['conj',['Conj',['../d2/dce/classprolog_1_1terms_1_1Conj.html',1,'prolog::terms']]],
+  ['cons',['Cons',['../d1/d10/classprolog_1_1terms_1_1Cons.html',1,'prolog::terms']]],
+  ['const',['Const',['../d0/d3f/classprolog_1_1terms_1_1Const.html',1,'prolog::terms']]],
+  ['constbuiltin',['ConstBuiltin',['../d9/db9/classprolog_1_1terms_1_1ConstBuiltin.html',1,'prolog::terms']]],
+  ['consttoken',['constToken',['../d1/d2e/classprolog_1_1io_1_1constToken.html',1,'prolog::io']]],
+  ['consult',['consult',['../de/def/classprolog_1_1builtins_1_1consult.html',1,'prolog::builtins']]],
+  ['copier',['Copier',['../d9/dc4/classprolog_1_1terms_1_1Copier.html',1,'prolog::terms']]],
+  ['ctime',['ctime',['../d9/d62/classprolog_1_1builtins_1_1ctime.html',1,'prolog::builtins']]]
+];

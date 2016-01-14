@@ -1,0 +1,16 @@
+<map id="prolog.terms.Clause.unfold" name="prolog.terms.Clause.unfold">
+<area shape="rect" id="node2" href="$d6/dc4/classprolog_1_1terms_1_1Clause_af03de53b32948f858e2cbfeb697eaf4b.html#af03de53b32948f858e2cbfeb697eaf4b" title="Concatenates 2 Conjunctions. " alt="" coords="469,309,681,336"/>
+<area shape="rect" id="node4" href="$d6/dc4/classprolog_1_1terms_1_1Clause_ad1a287e7c18ca6880e5d8f7d97c6acd9.html#ad1a287e7c18ca6880e5d8f7d97c6acd9" title="Creates a copy of the clause with variables standardized apart, i.e. " alt="" coords="237,5,416,32"/>
+<area shape="rect" id="node5" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a414492a8d9d648788aadfd423ee32fb0.html#a414492a8d9d648788aadfd423ee32fb0" title="Builds a clause given its head and its body. " alt="" coords="483,56,667,83"/>
+<area shape="rect" id="node9" href="$d6/dc4/classprolog_1_1terms_1_1Clause_ab690dc7c5a2d5b6007fbf559a537d262.html#ab690dc7c5a2d5b6007fbf559a537d262" title="Extracts the body of a clause. " alt="" coords="480,183,671,209"/>
+<area shape="rect" id="node10" href="$d6/dc4/classprolog_1_1terms_1_1Clause_abb4cb737b264c815c48f32a431ec6f5a.html#abb4cb737b264c815c48f32a431ec6f5a" title="Gets the leftmost (first) goal in the body of a clause, i.e. " alt="" coords="233,157,420,184"/>
+<area shape="rect" id="node11" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a5e5502c9619429232fcb310406256830.html#a5e5502c9619429232fcb310406256830" title="Extracts the head of a clause (a Term). " alt="" coords="479,259,671,285"/>
+<area shape="rect" id="node12" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a60e4c0d7e8a9b03c5b073f3c2f023011.html#a60e4c0d7e8a9b03c5b073f3c2f023011" title="Gets all but the leftmost goal in the body of a clause, i.e. " alt="" coords="232,208,421,235"/>
+<area shape="rect" id="node13" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a9b83bb831ed6ac6dd508c099007ac0.html#a0a9b83bb831ed6ac6dd508c099007ac0" title="Tests if this term unifies with that. " alt="" coords="235,360,418,387"/>
+<area shape="rect" id="node14" href="$d3/ded/classprolog_1_1terms_1_1Term_a84d8fb7e1f816d0dbe3c2c56ed28fdb9.html#a84d8fb7e1f816d0dbe3c2c56ed28fdb9" title="Dereference and unify_to. " alt="" coords="247,411,407,437"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="745,284,892,311"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term_a01e5a83e648ee3f89415c0142c4220d4.html#a01e5a83e648ee3f89415c0142c4220d4" title="Returns a copy of a term with variables standardized apart (`fresh variables&#39;). " alt="" coords="495,5,655,32"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="729,5,908,32"/>
+<area shape="rect" id="node8" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="956,5,1123,32"/>
+<area shape="rect" id="node15" href="$d3/ded/classprolog_1_1terms_1_1Term_a866b2cca50e77e99b560578b2fa3a91a.html#a866b2cca50e77e99b560578b2fa3a91a" title="Unify dereferenced. " alt="" coords="486,360,665,387"/>
+</map>

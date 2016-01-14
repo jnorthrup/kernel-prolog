@@ -1,0 +1,10 @@
+<map id="prolog.Init" name="prolog.Init">
+<area shape="rect" id="node2" href="$da/dd9/classprolog_1_1fluents_1_1DataBase.html" title="Implements a Term and Clause objects based blackboard (database). " alt="" coords="175,1204,337,1560"/>
+<area shape="rect" id="node3" href="$d2/d8d/classprolog_1_1fluents_1_1BlackBoard.html" title="This class implementes generic multiple tuples by key operations for use by the PrologBlackBoard clas..." alt="" coords="117,840,288,1005"/>
+<area shape="rect" id="node4" href="$de/dd4/classprolog_1_1fluents_1_1HashDict.html" title="General purpose dictionary. " alt="" coords="62,669,221,761"/>
+<area shape="rect" id="node12" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins.html" title="This class contains a dictionary of all builtins i.e. " alt="" coords="5,1044,155,1180"/>
+<area shape="rect" id="node6" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="312,825,445,1020"/>
+<area shape="rect" id="node11" href="$d8/dad/classprolog_1_1terms_1_1Nil.html" title="Special constant terminating a list. " alt="" coords="365,1336,480,1428"/>
+<area shape="rect" id="node7" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="309,655,449,776"/>
+<area shape="rect" id="node8" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="313,132,444,605"/>
+</map>

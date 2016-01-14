@@ -1,0 +1,21 @@
+<map id="prolog.io.Lexer.make_fun" name="prolog.io.Lexer.make_fun">
+<area shape="rect" id="node2" href="$d9/d79/classprolog_1_1io_1_1Lexer_a9fbdd67572706c48a026047f818f2e7a.html#a9fbdd67572706c48a026047f818f2e7a" title="prolog.io.Lexer.getWord" alt="" coords="221,241,381,267"/>
+<area shape="rect" id="node3" href="$d9/d79/classprolog_1_1io_1_1Lexer_af90567b8e92b07af09c8f60a587d8404.html#af90567b8e92b07af09c8f60a587d8404" title="prolog.io.Lexer.next" alt="" coords="429,241,565,267"/>
+<area shape="rect" id="node4" href="$d7/df1/classprolog_1_1io_1_1Parser_a65d208b0e30e3ff19d769fbb3b0f7247.html#a65d208b0e30e3ff19d769fbb3b0f7247" title="prolog.io.Parser.getArgs" alt="" coords="841,393,1003,419"/>
+<area shape="rect" id="node6" href="$d7/df1/classprolog_1_1io_1_1Parser_aa7e461fd858ff34bac99d032f61e52da.html#aa7e461fd858ff34bac99d032f61e52da" title="prolog.io.Parser.getConjCont" alt="" coords="827,139,1017,166"/>
+<area shape="rect" id="node7" href="$d7/df1/classprolog_1_1io_1_1Parser_a79322090cfbd908b02c83db6c65806d2.html#a79322090cfbd908b02c83db6c65806d2" title="prolog.io.Parser.readClause\lOrEOF" alt="" coords="1065,111,1248,152"/>
+<area shape="rect" id="node8" href="$d7/df1/classprolog_1_1io_1_1Parser_ad0255f716753ec63c0f4e7cf9a8d2d38.html#ad0255f716753ec63c0f4e7cf9a8d2d38" title="Main Parser interface: reads a clause together with variable name information. " alt="" coords="1296,78,1479,105"/>
+<area shape="rect" id="node18" href="$d7/df1/classprolog_1_1io_1_1Parser_ab9dcde7b1480cd18c6a21e5c88e1a2bd.html#ab9dcde7b1480cd18c6a21e5c88e1a2bd" title="prolog.io.Parser.getList" alt="" coords="1079,303,1235,330"/>
+<area shape="rect" id="node19" href="$d7/df1/classprolog_1_1io_1_1Parser_aa2150bc0ca63050e058a5041b719dd7b.html#aa2150bc0ca63050e058a5041b719dd7b" title="prolog.io.Parser.getListCont" alt="" coords="830,291,1014,318"/>
+<area shape="rect" id="node20" href="$d7/df1/classprolog_1_1io_1_1Parser_ae301f1d607ff1269917a097eda95199a.html#ae301f1d607ff1269917a097eda95199a" title="prolog.io.Parser.getTerm" alt="" coords="613,241,779,267"/>
+<area shape="rect" id="node5" href="$d7/df1/classprolog_1_1io_1_1Parser_a2266a192306644bbc8e9bb4b4839708e.html#a2266a192306644bbc8e9bb4b4839708e" title="prolog.io.Parser.getTerm" alt="" coords="1305,341,1470,367"/>
+<area shape="rect" id="node9" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a83885e10b61d6bf129307d9bf50d93de.html#a83885e10b61d6bf129307d9bf50d93de" title="prolog.fluents.DataBase.apply\l_parser" alt="" coords="1527,5,1724,47"/>
+<area shape="rect" id="node11" href="$d4/d09/classprolog_1_1io_1_1ClauseReader_a805e9a5ebc401e1099f39af9b3f6fb47.html#a805e9a5ebc401e1099f39af9b3f6fb47" title="prolog.io.ClauseReader.get\lElement" alt="" coords="1535,71,1715,112"/>
+<area shape="rect" id="node12" href="$d7/df1/classprolog_1_1io_1_1Parser_acd7f700bcb96620b8c6770c2fcae5802.html#acd7f700bcb96620b8c6770c2fcae5802" title="prolog.io.Parser.clsFrom\lString" alt="" coords="1543,136,1707,177"/>
+<area shape="rect" id="node10" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_af8b26948ded7bba6386b984f463bf166.html#af8b26948ded7bba6386b984f463bf166" title="prolog.fluents.DataBase.stream\lToProg" alt="" coords="1772,5,1979,47"/>
+<area shape="rect" id="node13" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a253e30217e7c206f42b947ba0dc7d754.html#a253e30217e7c206f42b947ba0dc7d754" title="Extracts a clause from its String representation. " alt="" coords="1785,136,1966,177"/>
+<area shape="rect" id="node14" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a59a965be3fc2e88226d5202dca1b2a26.html#a59a965be3fc2e88226d5202dca1b2a26" title="Constructs a clause by parsing its string representation. " alt="" coords="2031,85,2215,111"/>
+<area shape="rect" id="node15" href="$d6/dc4/classprolog_1_1terms_1_1Clause_aff298dbb79a27341afb0860f82ad1464.html#aff298dbb79a27341afb0860f82ad1464" title="prolog.terms.Clause.goal\lFromString" alt="" coords="2039,136,2206,177"/>
+<area shape="rect" id="node17" href="$d3/ded/classprolog_1_1terms_1_1Term_a837eb66c18c36b2a0a4ecce8ad7cd144.html#a837eb66c18c36b2a0a4ecce8ad7cd144" title="prolog.terms.Term.fromString" alt="" coords="2027,202,2219,229"/>
+<area shape="rect" id="node16" href="$d8/d35/classprolog_1_1Init_a0f6db95b70444cd1b933f24ec44814e4.html#a0f6db95b70444cd1b933f24ec44814e4" title="prolog.Init.getGoal" alt="" coords="2267,143,2395,170"/>
+</map>

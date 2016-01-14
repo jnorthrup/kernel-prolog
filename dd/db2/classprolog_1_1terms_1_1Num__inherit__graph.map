@@ -1,0 +1,6 @@
+<map id="prolog.terms.Num" name="prolog.terms.Num">
+<area shape="rect" id="node6" href="$d3/db9/classprolog_1_1terms_1_1Int.html" title="{prolog.terms.Int\n|~ val\l|+ Int()\l+ name()\l+ getArity()\l+ longValue()\l+ intValue()\l+ getValue()\l~ bind_to()\l}" alt="" coords="5,961,119,1127"/>
+<area shape="rect" id="node7" href="$d0/ded/classprolog_1_1terms_1_1Real.html" title="Part of the Term hierarchy, implementing double float point numbers. " alt="" coords="143,976,269,1112"/>
+<area shape="rect" id="node2" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="64,652,204,773"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="69,131,199,604"/>
+</map>

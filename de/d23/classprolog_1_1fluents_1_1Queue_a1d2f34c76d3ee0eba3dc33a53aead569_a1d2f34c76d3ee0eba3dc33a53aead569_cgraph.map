@@ -1,0 +1,15 @@
+<map id="prolog.fluents.Queue.Queue" name="prolog.fluents.Queue.Queue">
+<area shape="rect" id="node2" href="$de/d23/classprolog_1_1fluents_1_1Queue_ac547996ff0686a0df9b16cb070bef1be.html#ac547996ff0686a0df9b16cb070bef1be" title="Adds an element to the end of the queue. " alt="" coords="237,157,404,184"/>
+<area shape="rect" id="node3" href="$d4/dc2/classprolog_1_1io_1_1IO_ab6e0553457312c4804472cbe1c646a28.html#ab6e0553457312c4804472cbe1c646a28" title="prolog.io.IO.errmes" alt="" coords="721,56,854,83"/>
+<area shape="rect" id="node8" href="$de/d23/classprolog_1_1fluents_1_1Queue_a3d1135124c700679bbd665d253dd9f0f.html#a3d1135124c700679bbd665d253dd9f0f" title="prolog.fluents.Queue.inc" alt="" coords="1173,208,1336,235"/>
+<area shape="rect" id="node9" href="$de/d23/classprolog_1_1fluents_1_1Queue_a16816604313a1e73e9d8845cdd4cbf8a.html#a16816604313a1e73e9d8845cdd4cbf8a" title="Dynamically resizes the queue. " alt="" coords="452,208,644,235"/>
+<area shape="rect" id="node4" href="$d4/dc2/classprolog_1_1io_1_1IO_ad851906c6ebd6559eb1b1fa52e26dabb.html#ad851906c6ebd6559eb1b1fa52e26dabb" title="prolog.io.IO.println" alt="" coords="964,56,1092,83"/>
+<area shape="rect" id="node7" href="$d4/dc2/classprolog_1_1io_1_1IO_a22a9a2bfe9fa6e00257369f5bf078a44.html#a22a9a2bfe9fa6e00257369f5bf078a44" title="prolog.io.IO.getStdOutput" alt="" coords="943,5,1113,32"/>
+<area shape="rect" id="node5" href="$d4/dc2/classprolog_1_1io_1_1IO_aab64872af087c6cd9c5dd13e9f4eda00.html#aab64872af087c6cd9c5dd13e9f4eda00" title="prolog.io.IO.print" alt="" coords="1195,56,1314,83"/>
+<area shape="rect" id="node6" href="$d6/d92/interfaceprolog_1_1io_1_1IOPeer_abc1f90b85b358011e2595069d38ac25f.html#abc1f90b85b358011e2595069d38ac25f" title="prolog.io.IOPeer.print" alt="" coords="1384,56,1529,83"/>
+<area shape="rect" id="node10" href="$de/d23/classprolog_1_1fluents_1_1Queue_a897146b8e89a4532bbd63061d1a87144.html#a897146b8e89a4532bbd63061d1a87144" title="prolog.fluents.Queue.count" alt="" coords="939,259,1117,285"/>
+<area shape="rect" id="node11" href="$de/d23/classprolog_1_1fluents_1_1Queue_af00e19e476afb783189f3ded5c1af564.html#af00e19e476afb783189f3ded5c1af564" title="prolog.fluents.Queue.toString" alt="" coords="692,309,883,336"/>
+<area shape="rect" id="node13" href="$d4/dc2/classprolog_1_1io_1_1IO_aaa553b2e5bb8b5de129d38fe67293316.html#aaa553b2e5bb8b5de129d38fe67293316" title="prolog.io.IO.trace" alt="" coords="726,107,849,133"/>
+<area shape="rect" id="node12" href="$de/d23/classprolog_1_1fluents_1_1Queue_adca2003759e9be115f6006eee370209a.html#adca2003759e9be115f6006eee370209a" title="prolog.fluents.Queue.toVector" alt="" coords="931,309,1125,336"/>
+<area shape="rect" id="node14" href="$d6/d92/interfaceprolog_1_1io_1_1IOPeer_a780dd51c62dba4c266286171101b2cee.html#a780dd51c62dba4c266286171101b2cee" title="prolog.io.IOPeer.traceln" alt="" coords="949,107,1107,133"/>
+</map>

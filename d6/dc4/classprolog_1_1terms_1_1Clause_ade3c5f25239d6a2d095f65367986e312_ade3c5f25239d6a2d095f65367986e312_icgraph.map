@@ -1,0 +1,10 @@
+<map id="prolog.terms.Clause.provenGround" name="prolog.terms.Clause.provenGround">
+<area shape="rect" id="node2" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a616eb2dbf395587a4029c19bdc492745.html#a616eb2dbf395587a4029c19bdc492745" title="Replaces varibles with nice looking upper case constants for printing purposes. " alt="" coords="236,85,455,112"/>
+<area shape="rect" id="node3" href="$d8/d35/classprolog_1_1Init_a34d43d3123bb194902cbcb1c06194cce.html#a34d43d3123bb194902cbcb1c06194cce" title="evalutes a query " alt="" coords="551,33,685,60"/>
+<area shape="rect" id="node7" href="$d4/d09/classprolog_1_1io_1_1ClauseReader_ac713387538e0471c0795c8a664f398d1.html#ac713387538e0471c0795c8a664f398d1" title="prolog.io.ClauseReader.extract_info" alt="" coords="503,85,733,112"/>
+<area shape="rect" id="node9" href="$d6/dc4/classprolog_1_1terms_1_1Clause_ac13bc534da7f02536d4741318443dd27.html#ac13bc534da7f02536d4741318443dd27" title="Pretty prints a clause after replacing ugly variable names. " alt="" coords="531,136,705,163"/>
+<area shape="rect" id="node4" href="$d8/d35/classprolog_1_1Init_a2471811f50fbed4de5df26ee530f1e2e.html#a2471811f50fbed4de5df26ee530f1e2e" title="evaluates and times a Goal querying program P " alt="" coords="804,31,939,57"/>
+<area shape="rect" id="node5" href="$d8/d35/classprolog_1_1Init_a0348efff7140aed75f8364f90b7c2b8b.html#a0348efff7140aed75f8364f90b7c2b8b" title="prolog.Init.run_query" alt="" coords="1017,5,1157,32"/>
+<area shape="rect" id="node6" href="$d8/d35/classprolog_1_1Init_a3e8704cf8b2d909fccc79e967dd48171.html#a3e8704cf8b2d909fccc79e967dd48171" title="prolog.Init.standardTop" alt="" coords="1009,56,1164,83"/>
+<area shape="rect" id="node8" href="$d4/d09/classprolog_1_1io_1_1ClauseReader_a805e9a5ebc401e1099f39af9b3f6fb47.html#a805e9a5ebc401e1099f39af9b3f6fb47" title="prolog.io.ClauseReader.get\lElement" alt="" coords="781,82,961,123"/>
+</map>

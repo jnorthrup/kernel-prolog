@@ -1,0 +1,9 @@
+<map id="prolog.terms.Prog.new_engine" name="prolog.terms.Prog.new_engine">
+<area shape="rect" id="node2" href="$d4/d26/classprolog_1_1terms_1_1Prog_a9e9f1fcf979c833292d594d709d0f689.html#a9e9f1fcf979c833292d594d709d0f689" title="Creates a Prog starting execution with argument &quot;goal&quot;. " alt="" coords="207,56,363,83"/>
+<area shape="rect" id="node3" href="$d6/dc4/classprolog_1_1terms_1_1Clause_ad1a287e7c18ca6880e5d8f7d97c6acd9.html#ad1a287e7c18ca6880e5d8f7d97c6acd9" title="Creates a copy of the clause with variables standardized apart, i.e. " alt="" coords="423,31,601,57"/>
+<area shape="rect" id="node8" href="$da/d93/classprolog_1_1terms_1_1ObjectStack_a058b4b33eb3234f7d3426058bcbcace0.html#a058b4b33eb3234f7d3426058bcbcace0" title="prolog.terms.ObjectStack.push" alt="" coords="411,81,613,108"/>
+<area shape="rect" id="node4" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a414492a8d9d648788aadfd423ee32fb0.html#a414492a8d9d648788aadfd423ee32fb0" title="Builds a clause given its head and its body. " alt="" coords="661,5,845,32"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_a01e5a83e648ee3f89415c0142c4220d4.html#a01e5a83e648ee3f89415c0142c4220d4" title="Returns a copy of a term with variables standardized apart (`fresh variables&#39;). " alt="" coords="673,56,833,83"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="893,56,1072,83"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="1120,56,1287,83"/>
+</map>

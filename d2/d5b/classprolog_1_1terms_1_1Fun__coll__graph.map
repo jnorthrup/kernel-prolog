@@ -1,0 +1,6 @@
+<map id="prolog.terms.Fun" name="prolog.terms.Fun">
+<area shape="rect" id="node2" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="119,839,252,1033"/>
+<area shape="rect" id="node7" href="$d8/dad/classprolog_1_1terms_1_1Nil.html" title="Special constant terminating a list. " alt="" coords="173,1228,288,1320"/>
+<area shape="rect" id="node3" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="115,655,255,776"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="28,132,159,605"/>
+</map>

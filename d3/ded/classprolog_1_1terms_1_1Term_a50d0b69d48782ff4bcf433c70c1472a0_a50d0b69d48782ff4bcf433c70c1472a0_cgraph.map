@@ -1,0 +1,5 @@
+<map id="prolog.terms.Term.numbervars" name="prolog.terms.Term.numbervars">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_a01e5a83e648ee3f89415c0142c4220d4.html#a01e5a83e648ee3f89415c0142c4220d4" title="Returns a copy of a term with variables standardized apart (`fresh variables&#39;). " alt="" coords="253,5,413,32"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="461,31,640,57"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="688,31,855,57"/>
+</map>

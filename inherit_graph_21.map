@@ -1,0 +1,110 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$de/d23/classprolog_1_1fluents_1_1Queue.html" title="Generic dynamic Queeue with (amortized) O(1) enq/deq (add and remove) operations. ..." alt="" coords="133,2187,276,2213"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="141,2237,269,2264"/>
+<area shape="rect" id="node4" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="324,2212,464,2239"/>
+<area shape="rect" id="node109" href="$d1/d12/classprolog_1_1terms_1_1Var.html" title="Part of the Term hierarchy implmenting logical variables. " alt="" coords="335,2263,453,2289"/>
+<area shape="rect" id="node5" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="536,1292,669,1319"/>
+<area shape="rect" id="node85" href="$d8/d32/classprolog_1_1terms_1_1Num.html" title="Abstract numeric class, part of the Term hierarchy. " alt="" coords="539,2212,666,2239"/>
+<area shape="rect" id="node88" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="512,3108,693,3135"/>
+<area shape="rect" id="node6" href="$d8/db6/classprolog_1_1io_1_1Token.html" title="prolog.io.Token" alt="" coords="773,643,884,669"/>
+<area shape="rect" id="node13" href="$d9/db9/classprolog_1_1terms_1_1ConstBuiltin.html" title="Template for builtins of arity 0. " alt="" coords="744,912,913,939"/>
+<area shape="rect" id="node18" href="$de/d8d/classprolog_1_1terms_1_1Fun.html" title="Implements compound terms. " alt="" coords="769,1267,889,1293"/>
+<area shape="rect" id="node83" href="$d8/dad/classprolog_1_1terms_1_1Nil.html" title="Special constant terminating a list. " alt="" coords="771,1317,886,1344"/>
+<area shape="rect" id="node84" href="$db/d4b/classprolog_1_1terms_1_1PseudoVar.html" title="Special constants, used to Name variables. " alt="" coords="747,1368,910,1395"/>
+<area shape="rect" id="node7" href="$d7/de5/classprolog_1_1io_1_1barToken.html" title="prolog.io.barToken" alt="" coords="979,491,1108,517"/>
+<area shape="rect" id="node8" href="$d5/db3/classprolog_1_1io_1_1commaToken.html" title="prolog.io.commaToken" alt="" coords="966,541,1121,568"/>
+<area shape="rect" id="node9" href="$db/de8/classprolog_1_1io_1_1lbraToken.html" title="prolog.io.lbraToken" alt="" coords="977,592,1109,619"/>
+<area shape="rect" id="node10" href="$db/d9d/classprolog_1_1io_1_1lparToken.html" title="prolog.io.lparToken" alt="" coords="977,643,1109,669"/>
+<area shape="rect" id="node11" href="$dd/d15/classprolog_1_1io_1_1rbraToken.html" title="prolog.io.rbraToken" alt="" coords="977,693,1110,720"/>
+<area shape="rect" id="node12" href="$da/d86/classprolog_1_1io_1_1rparToken.html" title="prolog.io.rparToken" alt="" coords="977,744,1110,771"/>
+<area shape="rect" id="node14" href="$d9/d4a/classprolog_1_1builtins_1_1halt.html" title="does its best to halt the program:&#45;) " alt="" coords="980,795,1107,821"/>
+<area shape="rect" id="node15" href="$dd/dcc/classprolog_1_1builtins_1_1reconsult__again.html" title="shorthand for reconsulting the last file " alt="" coords="964,846,1123,887"/>
+<area shape="rect" id="node16" href="$de/d2f/classprolog_1_1terms_1_1fail__.html" title="Always fails. " alt="" coords="982,912,1105,939"/>
+<area shape="rect" id="node17" href="$d8/d36/classprolog_1_1terms_1_1true__.html" title="Always succeeds. " alt="" coords="980,963,1107,989"/>
+<area shape="rect" id="node19" href="$d1/d2e/classprolog_1_1io_1_1constToken.html" title="prolog.io.constToken" alt="" coords="972,1013,1115,1040"/>
+<area shape="rect" id="node20" href="$d9/d6b/classprolog_1_1io_1_1eocToken.html" title="prolog.io.eocToken" alt="" coords="977,1064,1109,1091"/>
+<area shape="rect" id="node21" href="$de/df9/classprolog_1_1io_1_1eofToken.html" title="prolog.io.eofToken" alt="" coords="979,1115,1108,1141"/>
+<area shape="rect" id="node22" href="$d6/d44/classprolog_1_1io_1_1funToken.html" title="prolog.io.funToken" alt="" coords="979,1165,1108,1192"/>
+<area shape="rect" id="node23" href="$dd/d50/classprolog_1_1io_1_1iffToken.html" title="prolog.io.iffToken" alt="" coords="982,1216,1105,1243"/>
+<area shape="rect" id="node24" href="$d2/dee/classprolog_1_1io_1_1intToken.html" title="prolog.io.intToken" alt="" coords="981,1267,1106,1293"/>
+<area shape="rect" id="node25" href="$d0/d66/classprolog_1_1io_1_1realToken.html" title="prolog.io.realToken" alt="" coords="977,1317,1109,1344"/>
+<area shape="rect" id="node26" href="$da/dbb/classprolog_1_1io_1_1stringToken.html" title="prolog.io.stringToken" alt="" coords="972,1368,1115,1395"/>
+<area shape="rect" id="node27" href="$d2/d4e/classprolog_1_1io_1_1varToken.html" title="prolog.io.varToken" alt="" coords="979,1419,1108,1445"/>
+<area shape="rect" id="node28" href="$d6/dc4/classprolog_1_1terms_1_1Clause.html" title="depends " alt="" coords="974,1469,1113,1496"/>
+<area shape="rect" id="node29" href="$d1/d10/classprolog_1_1terms_1_1Cons.html" title="List Constructor. " alt="" coords="979,1520,1108,1547"/>
+<area shape="rect" id="node31" href="$d3/df5/classprolog_1_1terms_1_1FunBuiltin.html" title="Template for builtins of arity &gt;0. " alt="" coords="965,1571,1121,1597"/>
+<area shape="rect" id="node30" href="$d2/dce/classprolog_1_1terms_1_1Conj.html" title="prolog.terms.Conj" alt="" coords="1201,5,1327,32"/>
+<area shape="rect" id="node32" href="$d1/d1c/classprolog_1_1builtins_1_1answer__source.html" title="When called as answer_source(X,G,R), it builds a new clause and maps it to an AnswerSource LD&#45;resolut..." alt="" coords="1190,57,1338,98"/>
+<area shape="rect" id="node33" href="$d9/d04/classprolog_1_1builtins_1_1arg.html" title="arg(I,Term,X) unifies X with the I&#45;the argument of functor T " alt="" coords="1202,123,1326,149"/>
+<area shape="rect" id="node34" href="$de/db4/classprolog_1_1builtins_1_1at__key.html" title="collects all matching terms in a (possibly empty) list " alt="" coords="1191,173,1337,200"/>
+<area shape="rect" id="node35" href="$d3/dc3/classprolog_1_1builtins_1_1char__file__writer.html" title="opens a writer which puts characters to a file one by one " alt="" coords="1199,225,1329,266"/>
+<area shape="rect" id="node36" href="$d3/d8f/classprolog_1_1builtins_1_1chars__to__name.html" title="converts a name to a list of chars " alt="" coords="1195,290,1333,331"/>
+<area shape="rect" id="node37" href="$db/d0b/classprolog_1_1builtins_1_1clause__file__writer.html" title="opens a writer which puts characters to a file one by one " alt="" coords="1192,355,1336,397"/>
+<area shape="rect" id="node38" href="$df/d49/classprolog_1_1builtins_1_1collect.html" title="Collects a reference to or the content of a Sink. " alt="" coords="1192,421,1336,448"/>
+<area shape="rect" id="node39" href="$d9/d12/classprolog_1_1builtins_1_1compute.html" title="Performs simple arithmetic operations like compute(&#39;+&#39;,1,2,Result) " alt="" coords="1186,472,1342,499"/>
+<area shape="rect" id="node40" href="$de/def/classprolog_1_1builtins_1_1consult.html" title="consults a file of clauses while adding clauses to existing predicate definitions ..." alt="" coords="1190,523,1338,549"/>
+<area shape="rect" id="node41" href="$d9/d62/classprolog_1_1builtins_1_1ctime.html" title="returns the real time spent up to now " alt="" coords="1195,573,1333,600"/>
+<area shape="rect" id="node42" href="$dc/d4a/classprolog_1_1builtins_1_1db__add.html" title="Puts a term on the local blackboard. " alt="" coords="1190,624,1338,651"/>
+<area shape="rect" id="node43" href="$df/dfb/classprolog_1_1builtins_1_1db__collect.html" title="collects all matching terms in a (possibly empty) list " alt="" coords="1204,675,1324,717"/>
+<area shape="rect" id="node44" href="$d1/dd4/classprolog_1_1builtins_1_1db__remove.html" title="removes a matching term if available, fails otherwise " alt="" coords="1204,741,1324,782"/>
+<area shape="rect" id="node45" href="$df/d57/classprolog_1_1builtins_1_1db__source.html" title="Maps a DataBase to a Source enumerating its elements. " alt="" coords="1204,806,1324,847"/>
+<area shape="rect" id="node46" href="$d7/d12/classprolog_1_1builtins_1_1db__to__string.html" title="lists all the local blackboard to a string (Linda terms + clauses) " alt="" coords="1204,871,1324,913"/>
+<area shape="rect" id="node47" href="$d5/dba/classprolog_1_1builtins_1_1discharge.html" title="Flushes to a Sink the content of a Source Fluent. " alt="" coords="1183,937,1345,964"/>
+<area shape="rect" id="node48" href="$d1/d24/classprolog_1_1builtins_1_1file__char__reader.html" title="opens a reader returning the content of a file char by char " alt="" coords="1203,989,1325,1030"/>
+<area shape="rect" id="node49" href="$d0/df5/classprolog_1_1builtins_1_1file__clause__reader.html" title="opens a reader returning clauses from a file " alt="" coords="1203,1054,1325,1095"/>
+<area shape="rect" id="node50" href="$d0/d8e/classprolog_1_1builtins_1_1get.html" title="generic Source advancement step, similar to an iterator&#39;s nextElement operation, gets one element fro..." alt="" coords="1202,1120,1326,1147"/>
+<area shape="rect" id="node51" href="$d4/d5b/classprolog_1_1builtins_1_1get__arity.html" title="gets an arity for any term: n&gt;0 for f(A1,...,An) 0 for a constant like a &#45;1 for a variable like X &#45;2 ..." alt="" coords="1202,1171,1326,1213"/>
+<area shape="rect" id="node52" href="$da/d20/classprolog_1_1builtins_1_1get__default__db.html" title="gets default database " alt="" coords="1202,1237,1326,1278"/>
+<area shape="rect" id="node53" href="$dd/d49/classprolog_1_1builtins_1_1get__persistent.html" title="Gets the yes/no persistentcy value of a Fluent. " alt="" coords="1202,1302,1326,1343"/>
+<area shape="rect" id="node54" href="$dc/d64/classprolog_1_1builtins_1_1get__stdin.html" title="get the standard output (a reader) " alt="" coords="1202,1367,1326,1409"/>
+<area shape="rect" id="node55" href="$dc/de9/classprolog_1_1builtins_1_1get__stdout.html" title="get standard output (a writer) " alt="" coords="1202,1433,1326,1474"/>
+<area shape="rect" id="node56" href="$d5/d14/classprolog_1_1builtins_1_1integer__source.html" title="Creates an Integer Source which advances at most Fuel (infinite if Fule==0) Steps computing each time..." alt="" coords="1191,1498,1337,1539"/>
+<area shape="rect" id="node57" href="$d3/d7e/classprolog_1_1builtins_1_1is__builtin.html" title="checks if something is a builtin " alt="" coords="1206,1563,1322,1605"/>
+<area shape="rect" id="node58" href="$d8/dd6/classprolog_1_1builtins_1_1list__source.html" title="maps a List to a Source " alt="" coords="1203,1629,1325,1670"/>
+<area shape="rect" id="node59" href="$de/d89/classprolog_1_1builtins_1_1merge__sources.html" title="Merges all Sources contained in a List into one Source. " alt="" coords="1193,1694,1335,1735"/>
+<area shape="rect" id="node60" href="$db/d97/classprolog_1_1builtins_1_1name__to__chars.html" title="converts a name to a list of chars " alt="" coords="1195,1759,1333,1801"/>
+<area shape="rect" id="node61" href="$d8/d49/classprolog_1_1builtins_1_1new__db.html" title="creates new database " alt="" coords="1189,1825,1339,1852"/>
+<area shape="rect" id="node62" href="$d9/d47/classprolog_1_1builtins_1_1new__fun.html" title="new_fun(F,N,T) creates a term T based on functor F with arity N and new free varables as arguments ..." alt="" coords="1187,1876,1341,1903"/>
+<area shape="rect" id="node63" href="$da/da3/classprolog_1_1builtins_1_1numbervars.html" title="returns a copy of a Term with variables uniformly replaced with constants " alt="" coords="1177,1927,1351,1953"/>
+<area shape="rect" id="node64" href="$d8/d56/classprolog_1_1builtins_1_1pred__to__string.html" title="Returns a representation of predicate as a string constant. " alt="" coords="1199,1978,1329,2019"/>
+<area shape="rect" id="node65" href="$d5/d21/classprolog_1_1builtins_1_1put.html" title="generic Sink advancement step, sends one element to the Sink " alt="" coords="1202,2044,1326,2071"/>
+<area shape="rect" id="node66" href="$d4/d86/classprolog_1_1builtins_1_1reconsult.html" title="reconsults a file of clauses while overwriting old predicate definitions " alt="" coords="1185,2095,1343,2121"/>
+<area shape="rect" id="node67" href="$d1/dae/classprolog_1_1builtins_1_1set__max__answers.html" title="sets max answer counter for toplevel query if == 0, it will prompt the user for more answers if &gt; 0 i..." alt="" coords="1202,2146,1326,2187"/>
+<area shape="rect" id="node68" href="$de/df5/classprolog_1_1builtins_1_1set__persistent.html" title="set_persistent(Fluent,yes) makes a Fluent persistent &#45; i.e. " alt="" coords="1202,2211,1326,2253"/>
+<area shape="rect" id="node69" href="$d6/dda/classprolog_1_1builtins_1_1set__trace.html" title="controls trace levels for debugging " alt="" coords="1202,2277,1326,2318"/>
+<area shape="rect" id="node70" href="$d0/da6/classprolog_1_1builtins_1_1source__list.html" title="Explores a finite iterator and return its successive values as a list. " alt="" coords="1179,2343,1349,2369"/>
+<area shape="rect" id="node71" href="$da/dc2/classprolog_1_1builtins_1_1source__loop.html" title="Builds a Looping Source from a Source. " alt="" coords="1176,2393,1352,2420"/>
+<area shape="rect" id="node72" href="$d9/d47/classprolog_1_1builtins_1_1source__term.html" title="Builds a Source from a Term. " alt="" coords="1175,2444,1353,2471"/>
+<area shape="rect" id="node73" href="$d1/df0/classprolog_1_1builtins_1_1split__source.html" title="Splits a (finite) Source in two new ones which inherit the current state of the parent. " alt="" coords="1199,2495,1329,2537"/>
+<area shape="rect" id="node74" href="$db/db9/classprolog_1_1builtins_1_1stack__dump.html" title="Dumps the current Java Stack. " alt="" coords="1175,2561,1353,2588"/>
+<area shape="rect" id="node75" href="$dd/d49/classprolog_1_1builtins_1_1stop.html" title="frees a Fluent&#39;s resources and ensures it cannot produce/consume any new values " alt="" coords="1199,2612,1329,2639"/>
+<area shape="rect" id="node76" href="$d3/d62/classprolog_1_1builtins_1_1string__char__reader.html" title="Creates a char reader from a String. " alt="" coords="1195,2663,1333,2705"/>
+<area shape="rect" id="node77" href="$db/daa/classprolog_1_1builtins_1_1string__clause__reader.html" title="Creates a clause reader from a String. " alt="" coords="1195,2729,1333,2770"/>
+<area shape="rect" id="node78" href="$d2/ddc/classprolog_1_1builtins_1_1system.html" title="Calls an external program. " alt="" coords="1189,2795,1339,2821"/>
+<area shape="rect" id="node79" href="$d7/ded/classprolog_1_1builtins_1_1term__collector.html" title="Builds a TermCollector Sink which accumulates Terms with put/1 and the return them with collect/1..." alt="" coords="1198,2846,1330,2887"/>
+<area shape="rect" id="node80" href="$d7/d96/classprolog_1_1builtins_1_1term__source.html" title="maps a Term to a Source " alt="" coords="1198,2911,1330,2953"/>
+<area shape="rect" id="node81" href="$d1/de1/classprolog_1_1builtins_1_1term__string__collector.html" title="Builds a StringSink which concatenates String representations of Terms with put/1 and the return thei..." alt="" coords="1198,2977,1330,3018"/>
+<area shape="rect" id="node82" href="$d1/d04/classprolog_1_1builtins_1_1unfolder__source.html" title="Builds a new clause H:&#45;B and maps it to an iterator. " alt="" coords="1188,3042,1340,3083"/>
+<area shape="rect" id="node86" href="$d3/db9/classprolog_1_1terms_1_1Int.html" title="prolog.terms.Int" alt="" coords="772,2187,885,2213"/>
+<area shape="rect" id="node87" href="$d0/ded/classprolog_1_1terms_1_1Real.html" title="Part of the Term hierarchy, implementing double float point numbers. " alt="" coords="766,2237,891,2264"/>
+<area shape="rect" id="node89" href="$d3/d77/classprolog_1_1fluents_1_1JavaObject.html" title="prolog.fluents.JavaObject" alt="" coords="743,3057,914,3084"/>
+<area shape="rect" id="node90" href="$d9/dc4/classprolog_1_1terms_1_1Copier.html" title="depends " alt="" coords="761,3108,897,3135"/>
+<area shape="rect" id="node91" href="$d9/d3b/classprolog_1_1terms_1_1Fluent.html" title="A Fluent is a Prolog Object which has its own state, subject to changes over time. " alt="" coords="761,3159,896,3185"/>
+<area shape="rect" id="node108" href="$d6/de6/classprolog_1_1terms_1_1VarNumberer.html" title="Used in implementing uniform replacement of variables with new constants. " alt="" coords="741,3209,916,3236"/>
+<area shape="rect" id="node92" href="$d9/de8/classprolog_1_1terms_1_1Sink.html" title="prolog.terms.Sink" alt="" coords="981,3159,1105,3185"/>
+<area shape="rect" id="node97" href="$d2/d07/classprolog_1_1terms_1_1Source.html" title="prolog.terms.Source" alt="" coords="974,3387,1113,3413"/>
+<area shape="rect" id="node93" href="$df/de7/classprolog_1_1fluents_1_1StringSink.html" title="Builds Fluents from Java Streams. " alt="" coords="1182,3108,1346,3135"/>
+<area shape="rect" id="node94" href="$dd/d70/classprolog_1_1fluents_1_1TermCollector.html" title="Builds Fluents from Java Streams. " alt="" coords="1171,3159,1357,3185"/>
+<area shape="rect" id="node95" href="$db/de8/classprolog_1_1io_1_1CharWriter.html" title="Writer. " alt="" coords="1195,3209,1333,3236"/>
+<area shape="rect" id="node96" href="$d4/dcc/classprolog_1_1io_1_1ClauseWriter.html" title="Writer. " alt="" coords="1423,3209,1573,3236"/>
+<area shape="rect" id="node98" href="$d1/d91/classprolog_1_1fluents_1_1IntegerSource.html" title="creates a source of integers based on x=a*x+b formula " alt="" coords="1171,3260,1357,3287"/>
+<area shape="rect" id="node99" href="$d3/d7c/classprolog_1_1fluents_1_1JavaSource.html" title="Builds Prolog Iterators from Java Sequences and Iterator type classes. " alt="" coords="1177,3311,1351,3337"/>
+<area shape="rect" id="node102" href="$d6/d98/classprolog_1_1fluents_1_1SourceLoop.html" title="An Infinite Source. " alt="" coords="1177,3361,1351,3388"/>
+<area shape="rect" id="node103" href="$d5/db0/classprolog_1_1io_1_1CharReader.html" title="Builds Fluents from Java Streams. " alt="" coords="1191,3412,1337,3439"/>
+<area shape="rect" id="node105" href="$d9/d07/classprolog_1_1io_1_1TermSource.html" title="Maps a Term to an Source for iterating over its arguments. " alt="" coords="1191,3463,1337,3489"/>
+<area shape="rect" id="node106" href="$d4/d26/classprolog_1_1terms_1_1Prog.html" title="Basic toplevel Prolog Engine. " alt="" coords="1201,3564,1327,3591"/>
+<area shape="rect" id="node107" href="$df/d94/classprolog_1_1terms_1_1Unfolder.html" title="depends " alt="" coords="1191,3513,1337,3540"/>
+<area shape="rect" id="node100" href="$da/d30/classprolog_1_1fluents_1_1ListSource.html" title="Builds an iterator from a list. " alt="" coords="1415,3285,1581,3312"/>
+<area shape="rect" id="node101" href="$d9/dc9/classprolog_1_1fluents_1_1SourceMerger.html" title="Merges a List of Sources into a new Source which (fairly) iterates over them breadth first..." alt="" coords="1405,3336,1591,3363"/>
+<area shape="rect" id="node104" href="$d4/d09/classprolog_1_1io_1_1ClauseReader.html" title="Builds Fluents from Java Streams. " alt="" coords="1419,3412,1577,3439"/>
+</map>

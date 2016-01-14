@@ -1,0 +1,6 @@
+<map id="prolog.Init.askProlog" name="prolog.Init.askProlog">
+<area shape="rect" id="node2" href="$d8/d35/classprolog_1_1Init_ae5fe9e2dc533d32690edbbec3b1c279b.html#ae5fe9e2dc533d32690edbbec3b1c279b" title="Asks Prolog a query Goal and returns the first solution of the form &quot;the(Answer)&quot; ..." alt="" coords="195,5,336,32"/>
+<area shape="rect" id="node3" href="$da/dde/classprolog_1_1Main_aca445add96cb95be654213f0e42d5b76.html#aca445add96cb95be654213f0e42d5b76" title="prolog.Main.init" alt="" coords="210,56,321,83"/>
+<area shape="rect" id="node5" href="$d8/d35/classprolog_1_1Init_a7293b6db1f53eca4730418c54ab07109.html#a7293b6db1f53eca4730418c54ab07109" title="prolog.Init.run" alt="" coords="215,107,316,133"/>
+<area shape="rect" id="node4" href="$da/dde/classprolog_1_1Main_ab0b3345fa72bd3b96c565437b962efa3.html#ab0b3345fa72bd3b96c565437b962efa3" title="prolog.Main.main" alt="" coords="384,81,505,108"/>
+</map>

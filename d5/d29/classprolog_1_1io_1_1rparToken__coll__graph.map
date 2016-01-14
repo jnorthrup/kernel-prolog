@@ -1,0 +1,7 @@
+<map id="prolog.io.rparToken" name="prolog.io.rparToken">
+<area shape="rect" id="node2" href="$d8/db6/classprolog_1_1io_1_1Token.html" title="{prolog.io.Token\n||~ Token()\l}" alt="" coords="17,1090,127,1167"/>
+<area shape="rect" id="node3" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="99,825,232,1020"/>
+<area shape="rect" id="node8" href="$d8/dad/classprolog_1_1terms_1_1Nil.html" title="Special constant terminating a list. " alt="" coords="152,1083,267,1175"/>
+<area shape="rect" id="node4" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="95,655,235,776"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="100,132,231,605"/>
+</map>

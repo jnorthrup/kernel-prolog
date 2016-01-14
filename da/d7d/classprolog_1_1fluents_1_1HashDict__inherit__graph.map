@@ -1,0 +1,5 @@
+<map id="prolog.fluents.HashDict" name="prolog.fluents.HashDict">
+<area shape="rect" id="node3" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins.html" title="This class contains a dictionary of all builtins i.e. " alt="" coords="5,285,155,421"/>
+<area shape="rect" id="node4" href="$d2/d8d/classprolog_1_1fluents_1_1BlackBoard.html" title="This class implementes generic multiple tuples by key operations for use by the PrologBlackBoard clas..." alt="" coords="179,271,349,436"/>
+<area shape="rect" id="node5" href="$da/dd9/classprolog_1_1fluents_1_1DataBase.html" title="Implements a Term and Clause objects based blackboard (database). " alt="" coords="183,484,345,869"/>
+</map>

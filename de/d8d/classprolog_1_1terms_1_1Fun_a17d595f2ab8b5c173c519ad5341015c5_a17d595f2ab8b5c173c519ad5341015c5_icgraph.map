@@ -1,0 +1,12 @@
+<map id="prolog.terms.Fun.getArity" name="prolog.terms.Fun.getArity">
+<area shape="rect" id="node2" href="$d4/d5b/classprolog_1_1builtins_1_1get__arity_aa1364e78c46f46e8d72d2dc483354fec.html#aa1364e78c46f46e8d72d2dc483354fec" title="prolog.builtins.get\l_arity.exec" alt="" coords="248,5,372,47"/>
+<area shape="rect" id="node3" href="$d9/d04/classprolog_1_1builtins_1_1arg_ad311a643f2c747fa4f4789175e0f928a.html#ad311a643f2c747fa4f4789175e0f928a" title="prolog.builtins.arg.exec" alt="" coords="232,71,388,98"/>
+<area shape="rect" id="node4" href="$de/d8d/classprolog_1_1terms_1_1Fun_ad4dd11bca6394b30a9a29e9eac0a70aa.html#ad4dd11bca6394b30a9a29e9eac0a70aa" title="prolog.terms.Fun.isClause" alt="" coords="223,122,397,149"/>
+<area shape="rect" id="node5" href="$d7/df1/classprolog_1_1io_1_1Parser_a6574340e5a916e3ca50b58cc999ccc69.html#a6574340e5a916e3ca50b58cc999ccc69" title="prolog.io.Parser.isError" alt="" coords="233,173,387,199"/>
+<area shape="rect" id="node8" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_a03db9f009d6e9f38f61113ec03af92b4.html#a03db9f009d6e9f38f61113ec03af92b4" title="prolog.builtins.Builtins.to\lFunBuiltin" alt="" coords="228,260,392,301"/>
+<area shape="rect" id="node6" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a83885e10b61d6bf129307d9bf50d93de.html#a83885e10b61d6bf129307d9bf50d93de" title="prolog.fluents.DataBase.apply\l_parser" alt="" coords="445,147,643,188"/>
+<area shape="rect" id="node7" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_af8b26948ded7bba6386b984f463bf166.html#af8b26948ded7bba6386b984f463bf166" title="prolog.fluents.DataBase.stream\lToProg" alt="" coords="691,147,897,188"/>
+<area shape="rect" id="node9" href="$d9/d47/classprolog_1_1builtins_1_1new__fun_a9c9d1dcf2538ad6a86d16926d744b6a3.html#a9c9d1dcf2538ad6a86d16926d744b6a3" title="prolog.builtins.new\l_fun.exec" alt="" coords="479,212,609,253"/>
+<area shape="rect" id="node10" href="$d9/d47/classprolog_1_1builtins_1_1source__term_a52ab1b08efdb52116de75b9ea92fa00e.html#a52ab1b08efdb52116de75b9ea92fa00e" title="prolog.builtins.source\l_term.exec" alt="" coords="471,277,617,319"/>
+<area shape="rect" id="node11" href="$d7/df1/classprolog_1_1io_1_1Parser_a2266a192306644bbc8e9bb4b4839708e.html#a2266a192306644bbc8e9bb4b4839708e" title="prolog.io.Parser.getTerm" alt="" coords="461,343,627,370"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="prolog.builtins.is_builtin.exec" name="prolog.builtins.is_builtin.exec">
+<area shape="rect" id="node2" href="$de/d8d/classprolog_1_1terms_1_1Fun_a95f487cd7555adbc0ae1a08076a0404d.html#a95f487cd7555adbc0ae1a08076a0404d" title="prolog.terms.Fun.getArg" alt="" coords="177,5,340,32"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_abdf14a847c1c7b0ef64008c9863d300a.html#abdf14a847c1c7b0ef64008c9863d300a" title="prolog.terms.Term.isBuiltin" alt="" coords="169,56,348,83"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="396,5,543,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="prolog.terms.Fluent.Fluent" name="prolog.terms.Fluent.Fluent">
+<area shape="rect" id="node2" href="$d9/d3b/classprolog_1_1terms_1_1Fluent_a3c1044cbcc0a51071835cc070fb1a7da.html#a3c1044cbcc0a51071835cc070fb1a7da" title="Adds this Fluent to the parent Solver&#39;s trail, which will eventually call the undo method of the Flue..." alt="" coords="228,31,405,57"/>
+<area shape="rect" id="node3" href="$d4/d26/classprolog_1_1terms_1_1Prog_a41eac8617a5002806d7137eb36183405.html#a41eac8617a5002806d7137eb36183405" title="prolog.terms.Prog.getTrail" alt="" coords="469,5,641,32"/>
+<area shape="rect" id="node4" href="$da/d93/classprolog_1_1terms_1_1ObjectStack_a058b4b33eb3234f7d3426058bcbcace0.html#a058b4b33eb3234f7d3426058bcbcace0" title="prolog.terms.ObjectStack.push" alt="" coords="453,56,656,83"/>
+</map>

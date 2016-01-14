@@ -1,0 +1,7 @@
+<map id="prolog.terms.Var.reaction" name="prolog.terms.Var.reaction">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="450,5,617,32"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="221,43,400,69"/>
+<area shape="rect" id="node4" href="$d1/d12/classprolog_1_1terms_1_1Var_a87e5778e2b3535a88d8750f0776fb900.html#a87e5778e2b3535a88d8750f0776fb900" title="prolog.terms.Var.ref" alt="" coords="242,93,379,120"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="460,68,607,95"/>
+<area shape="rect" id="node6" href="$d1/d12/classprolog_1_1terms_1_1Var_a2194ec6eec940cc349b828f6fefcf242.html#a2194ec6eec940cc349b828f6fefcf242" title="prolog.terms.Var.unbound" alt="" coords="448,119,619,145"/>
+</map>

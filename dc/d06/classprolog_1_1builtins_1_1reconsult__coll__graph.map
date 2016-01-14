@@ -1,0 +1,8 @@
+<map id="prolog.builtins.reconsult" name="prolog.builtins.reconsult">
+<area shape="rect" id="node2" href="$d3/df5/classprolog_1_1terms_1_1FunBuiltin.html" title="Template for builtins of arity &gt;0. " alt="" coords="7,1501,163,1608"/>
+<area shape="rect" id="node3" href="$de/d8d/classprolog_1_1terms_1_1Fun.html" title="Implements compound terms. " alt="" coords="13,1096,157,1452"/>
+<area shape="rect" id="node4" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="126,839,259,1033"/>
+<area shape="rect" id="node9" href="$d8/dad/classprolog_1_1terms_1_1Nil.html" title="Special constant terminating a list. " alt="" coords="181,1228,295,1320"/>
+<area shape="rect" id="node5" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="123,655,263,776"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="35,132,166,605"/>
+</map>

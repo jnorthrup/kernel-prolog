@@ -1,0 +1,6 @@
+<map id="prolog.terms.Term.pprint" name="prolog.terms.Term.pprint">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_a50d0b69d48782ff4bcf433c70c1472a0.html#a50d0b69d48782ff4bcf433c70c1472a0" title="Replaces variables with uppercase constants named `V1&#39;, &#39;V2&#39;, etc. " alt="" coords="217,31,417,57"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_a01e5a83e648ee3f89415c0142c4220d4.html#a01e5a83e648ee3f89415c0142c4220d4" title="Returns a copy of a term with variables standardized apart (`fresh variables&#39;). " alt="" coords="465,5,625,32"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="673,31,852,57"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="900,31,1067,57"/>
+</map>

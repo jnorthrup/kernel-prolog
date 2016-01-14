@@ -1,0 +1,5 @@
+<map id="prolog.fluents.BlackBoard.addBack" name="prolog.fluents.BlackBoard.addBack">
+<area shape="rect" id="node2" href="$d2/d8d/classprolog_1_1fluents_1_1BlackBoard_a4b49c266b7b7abbc698841281e426bfe.html#a4b49c266b7b7abbc698841281e426bfe" title="Removes the first matching Term or Clause from the blackboard, to be used by Linda in/1 operation in ..." alt="" coords="280,13,480,39"/>
+<area shape="rect" id="node3" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a5cc308e3a32da4266de44e52764501ca.html#a5cc308e3a32da4266de44e52764501ca" title="Removes a matching Term from the blackboards and signals failure if no such term is found..." alt="" coords="528,13,711,39"/>
+<area shape="rect" id="node4" href="$d1/dd4/classprolog_1_1builtins_1_1db__remove_a5a3ab57bdfd925e9cc119d213cd23163.html#a5a3ab57bdfd925e9cc119d213cd23163" title="prolog.builtins.db\l_remove.exec" alt="" coords="759,5,879,47"/>
+</map>

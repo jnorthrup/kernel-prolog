@@ -1,0 +1,5 @@
+<map id="prolog.terms.Prog.stop" name="prolog.terms.Prog.stop">
+<area shape="rect" id="node2" href="$dd/dad/classprolog_1_1terms_1_1Trail_adab6fa04fe8e0da6e1870bd1b37a654b.html#adab6fa04fe8e0da6e1870bd1b37a654b" title="Used to undo bindings after unification, if we intend to leave no side effects. " alt="" coords="208,31,376,57"/>
+<area shape="rect" id="node3" href="$da/d93/classprolog_1_1terms_1_1ObjectStack_aaa01178e10f20beab62b1410ba720606.html#aaa01178e10f20beab62b1410ba720606" title="prolog.terms.ObjectStack.pop" alt="" coords="424,5,619,32"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_ac710eec3650309d160ca04e364804e47.html#ac710eec3650309d160ca04e364804e47" title="prolog.terms.Term.undo" alt="" coords="441,56,601,83"/>
+</map>

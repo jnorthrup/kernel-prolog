@@ -1,0 +1,8 @@
+<map id="prolog.io.CharReader" name="prolog.io.CharReader">
+<area shape="rect" id="node9" href="$d4/d09/classprolog_1_1io_1_1ClauseReader.html" title="Builds Fluents from Java Streams. " alt="" coords="17,1601,175,1781"/>
+<area shape="rect" id="node2" href="$d2/d07/classprolog_1_1terms_1_1Source.html" title="{prolog.terms.Source\n||+ Source()\l+ getElement()\l+ toList()\l+ toFun()\l}" alt="" coords="27,1219,165,1340"/>
+<area shape="rect" id="node3" href="$d9/d3b/classprolog_1_1terms_1_1Fluent.html" title="A Fluent is a Prolog Object which has its own state, subject to changes over time. " alt="" coords="29,1020,163,1171"/>
+<area shape="rect" id="node4" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="5,821,187,972"/>
+<area shape="rect" id="node5" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="26,652,166,773"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="31,131,161,604"/>
+</map>

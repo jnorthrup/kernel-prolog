@@ -1,0 +1,8 @@
+<map id="prolog.terms.Term.matches" name="prolog.terms.Term.matches">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_a84d8fb7e1f816d0dbe3c2c56ed28fdb9.html#a84d8fb7e1f816d0dbe3c2c56ed28fdb9" title="Dereference and unify_to. " alt="" coords="240,56,400,83"/>
+<area shape="rect" id="node5" href="$dd/dad/classprolog_1_1terms_1_1Trail_adab6fa04fe8e0da6e1870bd1b37a654b.html#adab6fa04fe8e0da6e1870bd1b37a654b" title="Used to undo bindings after unification, if we intend to leave no side effects. " alt="" coords="236,107,404,133"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="476,5,623,32"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_a866b2cca50e77e99b560578b2fa3a91a.html#a866b2cca50e77e99b560578b2fa3a91a" title="Unify dereferenced. " alt="" coords="460,56,639,83"/>
+<area shape="rect" id="node6" href="$da/d93/classprolog_1_1terms_1_1ObjectStack_aaa01178e10f20beab62b1410ba720606.html#aaa01178e10f20beab62b1410ba720606" title="prolog.terms.ObjectStack.pop" alt="" coords="452,107,647,133"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term_ac710eec3650309d160ca04e364804e47.html#ac710eec3650309d160ca04e364804e47" title="prolog.terms.Term.undo" alt="" coords="469,157,629,184"/>
+</map>

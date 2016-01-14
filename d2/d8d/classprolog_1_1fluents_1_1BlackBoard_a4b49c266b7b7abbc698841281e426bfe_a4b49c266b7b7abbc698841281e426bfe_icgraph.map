@@ -1,0 +1,4 @@
+<map id="prolog.fluents.BlackBoard.take" name="prolog.fluents.BlackBoard.take">
+<area shape="rect" id="node2" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a5cc308e3a32da4266de44e52764501ca.html#a5cc308e3a32da4266de44e52764501ca" title="Removes a matching Term from the blackboards and signals failure if no such term is found..." alt="" coords="253,13,436,39"/>
+<area shape="rect" id="node3" href="$d1/dd4/classprolog_1_1builtins_1_1db__remove_a5a3ab57bdfd925e9cc119d213cd23163.html#a5a3ab57bdfd925e9cc119d213cd23163" title="prolog.builtins.db\l_remove.exec" alt="" coords="484,5,604,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="prolog.terms.Clause.checkIfGround" name="prolog.terms.Clause.checkIfGround">
+<area shape="rect" id="node2" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a00d8b13e5351a9f8c1ef80de688cd266.html#a00d8b13e5351a9f8c1ef80de688cd266" title="Reads a goal as a clause containing a dummy header with all variables in it. " alt="" coords="232,13,413,39"/>
+<area shape="rect" id="node3" href="$d6/dc4/classprolog_1_1terms_1_1Clause_aff298dbb79a27341afb0860f82ad1464.html#aff298dbb79a27341afb0860f82ad1464" title="prolog.terms.Clause.goal\lFromString" alt="" coords="461,5,628,47"/>
+<area shape="rect" id="node4" href="$d8/d35/classprolog_1_1Init_a0f6db95b70444cd1b933f24ec44814e4.html#a0f6db95b70444cd1b933f24ec44814e4" title="prolog.Init.getGoal" alt="" coords="676,13,804,39"/>
+</map>

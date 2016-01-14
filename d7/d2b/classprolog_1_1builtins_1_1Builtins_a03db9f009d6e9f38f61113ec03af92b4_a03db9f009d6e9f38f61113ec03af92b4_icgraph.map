@@ -1,0 +1,5 @@
+<map id="prolog.builtins.Builtins.toFunBuiltin" name="prolog.builtins.Builtins.toFunBuiltin">
+<area shape="rect" id="node2" href="$d9/d47/classprolog_1_1builtins_1_1new__fun_a9c9d1dcf2538ad6a86d16926d744b6a3.html#a9c9d1dcf2538ad6a86d16926d744b6a3" title="prolog.builtins.new\l_fun.exec" alt="" coords="235,5,365,47"/>
+<area shape="rect" id="node3" href="$d9/d47/classprolog_1_1builtins_1_1source__term_a52ab1b08efdb52116de75b9ea92fa00e.html#a52ab1b08efdb52116de75b9ea92fa00e" title="prolog.builtins.source\l_term.exec" alt="" coords="227,71,373,112"/>
+<area shape="rect" id="node4" href="$d7/df1/classprolog_1_1io_1_1Parser_a2266a192306644bbc8e9bb4b4839708e.html#a2266a192306644bbc8e9bb4b4839708e" title="prolog.io.Parser.getTerm" alt="" coords="217,137,383,163"/>
+</map>

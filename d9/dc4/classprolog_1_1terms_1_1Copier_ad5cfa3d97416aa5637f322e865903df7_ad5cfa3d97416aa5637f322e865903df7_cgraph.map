@@ -1,0 +1,7 @@
+<map id="prolog.terms.Copier.getMyVars" name="prolog.terms.Copier.getMyVars">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="256,9,435,36"/>
+<area shape="rect" id="node4" href="$d9/dc4/classprolog_1_1terms_1_1Copier_a4ef8214d87c787cdca1e6f393cca89d2.html#a4ef8214d87c787cdca1e6f393cca89d2" title="Converts a reified Iterator to functor based on name of Const c and args being the elements of the It..." alt="" coords="259,64,432,91"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="506,5,673,32"/>
+<area shape="rect" id="node5" href="$d9/dc4/classprolog_1_1terms_1_1Copier_a49207fd4df96f99f132b87f0d74dc6f7.html#a49207fd4df96f99f132b87f0d74dc6f7" title="Reifies an Iterator as a ArrayList. " alt="" coords="483,57,696,98"/>
+<area shape="rect" id="node6" href="$d0/d3f/classprolog_1_1terms_1_1Const_a947005f966303baeb029a22d9201ea1b.html#a947005f966303baeb029a22d9201ea1b" title="prolog.terms.Const.name" alt="" coords="505,123,674,149"/>
+</map>

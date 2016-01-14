@@ -1,0 +1,6 @@
+<map id="prolog.terms.Var.getKey" name="prolog.terms.Var.getKey">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_a6724b2651c5023151fee83e78956e112.html#a6724b2651c5023151fee83e78956e112" title="Returns a string key used based on the string name of the term. " alt="" coords="216,5,389,32"/>
+<area shape="rect" id="node3" href="$d1/d12/classprolog_1_1terms_1_1Var_a87e5778e2b3535a88d8750f0776fb900.html#a87e5778e2b3535a88d8750f0776fb900" title="prolog.terms.Var.ref" alt="" coords="234,56,371,83"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="449,31,596,57"/>
+<area shape="rect" id="node5" href="$d1/d12/classprolog_1_1terms_1_1Var_a2194ec6eec940cc349b828f6fefcf242.html#a2194ec6eec940cc349b828f6fefcf242" title="prolog.terms.Var.unbound" alt="" coords="437,81,608,108"/>
+</map>

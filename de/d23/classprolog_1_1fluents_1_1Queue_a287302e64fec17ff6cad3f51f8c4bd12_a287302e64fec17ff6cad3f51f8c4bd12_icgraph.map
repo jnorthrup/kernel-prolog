@@ -1,0 +1,7 @@
+<map id="prolog.fluents.Queue.deq" name="prolog.fluents.Queue.deq">
+<area shape="rect" id="node2" href="$d9/dc9/classprolog_1_1fluents_1_1SourceMerger_a0efcba19e4678b70041342889357e43b.html#a0efcba19e4678b70041342889357e43b" title="prolog.fluents.SourceMerger.get\lElement" alt="" coords="220,5,427,47"/>
+<area shape="rect" id="node3" href="$d2/d8d/classprolog_1_1fluents_1_1BlackBoard_a9a02fa64d8837510e94f4ef70aa25096.html#a9a02fa64d8837510e94f4ef70aa25096" title="Removes the first Term having key k or the first enumerated key if k is null. " alt="" coords="224,71,423,98"/>
+<area shape="rect" id="node4" href="$d2/d8d/classprolog_1_1fluents_1_1BlackBoard_a4b49c266b7b7abbc698841281e426bfe.html#a4b49c266b7b7abbc698841281e426bfe" title="Removes the first matching Term or Clause from the blackboard, to be used by Linda in/1 operation in ..." alt="" coords="475,71,675,98"/>
+<area shape="rect" id="node5" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a5cc308e3a32da4266de44e52764501ca.html#a5cc308e3a32da4266de44e52764501ca" title="Removes a matching Term from the blackboards and signals failure if no such term is found..." alt="" coords="723,71,905,98"/>
+<area shape="rect" id="node6" href="$d1/dd4/classprolog_1_1builtins_1_1db__remove_a5a3ab57bdfd925e9cc119d213cd23163.html#a5a3ab57bdfd925e9cc119d213cd23163" title="prolog.builtins.db\l_remove.exec" alt="" coords="953,64,1073,105"/>
+</map>

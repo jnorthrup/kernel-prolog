@@ -1,0 +1,11 @@
+<map id="prolog.io.ClauseReader" name="prolog.io.ClauseReader">
+<area shape="rect" id="node2" href="$d5/db0/classprolog_1_1io_1_1CharReader.html" title="Builds Fluents from Java Streams. " alt="" coords="105,1673,250,1839"/>
+<area shape="rect" id="node3" href="$d2/d07/classprolog_1_1terms_1_1Source.html" title="{prolog.terms.Source\n||+ Source()\l+ getElement()\l+ toList()\l+ toFun()\l}" alt="" coords="27,1334,165,1455"/>
+<area shape="rect" id="node4" href="$d9/d3b/classprolog_1_1terms_1_1Fluent.html" title="A Fluent is a Prolog Object which has its own state, subject to changes over time. " alt="" coords="29,1025,163,1176"/>
+<area shape="rect" id="node5" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="5,825,187,976"/>
+<area shape="rect" id="node6" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="26,655,166,776"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="31,132,161,605"/>
+<area shape="rect" id="node12" href="$d9/d79/classprolog_1_1io_1_1Lexer.html" title="Lexicographic analyser reading from a stream. " alt="" coords="287,1239,407,1551"/>
+<area shape="rect" id="node11" href="$d7/df1/classprolog_1_1io_1_1Parser.html" title="Simplified Prolog parser: Synatax supported: a0:&#45;a1,...,an. " alt="" coords="274,1600,419,1912"/>
+<area shape="rect" id="node14" href="$de/dd4/classprolog_1_1fluents_1_1HashDict.html" title="General purpose dictionary. " alt="" coords="429,1055,587,1147"/>
+</map>

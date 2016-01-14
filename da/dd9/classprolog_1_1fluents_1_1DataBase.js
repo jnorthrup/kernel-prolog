@@ -1,0 +1,26 @@
+var classprolog_1_1fluents_1_1DataBase =
+[
+    [ "DataBase", "da/dd9/classprolog_1_1fluents_1_1DataBase_abcf64dd32879493e827f5c686e9edb00.html#abcf64dd32879493e827f5c686e9edb00", null ],
+    [ "addClause", "da/dd9/classprolog_1_1fluents_1_1DataBase_a7922dc4eb05ca6cccd4c8bb38563814e.html#a7922dc4eb05ca6cccd4c8bb38563814e", null ],
+    [ "all", "da/dd9/classprolog_1_1fluents_1_1DataBase_ac93f1bf928f7e64f000726f764891ea9.html#ac93f1bf928f7e64f000726f764891ea9", null ],
+    [ "all0", "da/dd9/classprolog_1_1fluents_1_1DataBase_a610cc1f35df4467fbb1fac1052091915.html#a610cc1f35df4467fbb1fac1052091915", null ],
+    [ "all1", "da/dd9/classprolog_1_1fluents_1_1DataBase_a4b4a68ddd60d87276cd7f9befd237ad9.html#a4b4a68ddd60d87276cd7f9befd237ad9", null ],
+    [ "all2", "da/dd9/classprolog_1_1fluents_1_1DataBase_a16bb9f309e161ca656d8aef483ba7e5f.html#a16bb9f309e161ca656d8aef483ba7e5f", null ],
+    [ "apply_parser", "da/dd9/classprolog_1_1fluents_1_1DataBase_a83885e10b61d6bf129307d9bf50d93de.html#a83885e10b61d6bf129307d9bf50d93de", null ],
+    [ "cin", "da/dd9/classprolog_1_1fluents_1_1DataBase_a5cc308e3a32da4266de44e52764501ca.html#a5cc308e3a32da4266de44e52764501ca", null ],
+    [ "fileToProg", "da/dd9/classprolog_1_1fluents_1_1DataBase_a09001c9a02b98909be7fc84934418ed6.html#a09001c9a02b98909be7fc84934418ed6", null ],
+    [ "fromFile", "da/dd9/classprolog_1_1fluents_1_1DataBase_a8b4fed48561a1c3086c94900495508d2.html#a8b4fed48561a1c3086c94900495508d2", null ],
+    [ "fromFile", "da/dd9/classprolog_1_1fluents_1_1DataBase_ad1b66a6cbd0a3e36691663d6b5e9753f.html#ad1b66a6cbd0a3e36691663d6b5e9753f", null ],
+    [ "fromFile", "da/dd9/classprolog_1_1fluents_1_1DataBase_ab8786cf0d5c9b125617099fbb7a31903.html#ab8786cf0d5c9b125617099fbb7a31903", null ],
+    [ "out", "da/dd9/classprolog_1_1fluents_1_1DataBase_a51e4c70bda602ed87135ca094cd64eb2.html#a51e4c70bda602ed87135ca094cd64eb2", null ],
+    [ "out", "da/dd9/classprolog_1_1fluents_1_1DataBase_a5f611e8962c4b5fc2fb515048d4ad9dc.html#a5f611e8962c4b5fc2fb515048d4ad9dc", null ],
+    [ "pprint", "da/dd9/classprolog_1_1fluents_1_1DataBase_abee194bd51b63bf7758b4ae2b2795b04.html#abee194bd51b63bf7758b4ae2b2795b04", null ],
+    [ "pred_to_string", "da/dd9/classprolog_1_1fluents_1_1DataBase_a2943c1694ea86572574a57f1a31f11c2.html#a2943c1694ea86572574a57f1a31f11c2", null ],
+    [ "processClause", "da/dd9/classprolog_1_1fluents_1_1DataBase_a6f8041bc2bcb5cdd8a376e81a3dc4dca.html#a6f8041bc2bcb5cdd8a376e81a3dc4dca", null ],
+    [ "streamToProg", "da/dd9/classprolog_1_1fluents_1_1DataBase_a885c2d663dfc3f5ebf5f94ef22a9a210.html#a885c2d663dfc3f5ebf5f94ef22a9a210", null ],
+    [ "streamToProg", "da/dd9/classprolog_1_1fluents_1_1DataBase_af8b26948ded7bba6386b984f463bf166.html#af8b26948ded7bba6386b984f463bf166", null ],
+    [ "toEnumerationFor", "da/dd9/classprolog_1_1fluents_1_1DataBase_abd1dba5c111c8b5a4a577942fa046ae0.html#abd1dba5c111c8b5a4a577942fa046ae0", null ],
+    [ "lastFile", "da/dd9/classprolog_1_1fluents_1_1DataBase_a2fcbcea85586adb7fd4600f0612563f7.html#a2fcbcea85586adb7fd4600f0612563f7", null ],
+    [ "no", "da/dd9/classprolog_1_1fluents_1_1DataBase_a215a3fde28d33717922f480b1d5fabb8.html#a215a3fde28d33717922f480b1d5fabb8", null ],
+    [ "yes", "da/dd9/classprolog_1_1fluents_1_1DataBase_a382796e2c151a5ecda802e18977adf54.html#a382796e2c151a5ecda802e18977adf54", null ]
+];

@@ -1,0 +1,5 @@
+<map id="prolog.io.Parser.isError" name="prolog.io.Parser.isError">
+<area shape="rect" id="node2" href="$de/d8d/classprolog_1_1terms_1_1Fun_a17d595f2ab8b5c173c519ad5341015c5.html#a17d595f2ab8b5c173c519ad5341015c5" title="prolog.terms.Fun.getArity" alt="" coords="219,5,389,32"/>
+<area shape="rect" id="node3" href="$d6/dc4/classprolog_1_1terms_1_1Clause_a5e5502c9619429232fcb310406256830.html#a5e5502c9619429232fcb310406256830" title="Extracts the head of a clause (a Term). " alt="" coords="208,56,400,83"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="448,56,595,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="prolog.Init.getGoal" name="prolog.Init.getGoal">
+<area shape="rect" id="node2" href="$d8/d35/classprolog_1_1Init_a4a827a2cfd90b291c538b46573b83d2f.html#a4a827a2cfd90b291c538b46573b83d2f" title="Asks Prolog a String query and gets back a string Answer of the form &quot;the(&#39;[]&#39;(VarsOfQuery))&quot; contain..." alt="" coords="188,5,329,32"/>
+<area shape="rect" id="node3" href="$d8/d35/classprolog_1_1Init_a0348efff7140aed75f8364f90b7c2b8b.html#a0348efff7140aed75f8364f90b7c2b8b" title="prolog.Init.run_query" alt="" coords="189,56,329,83"/>
+<area shape="rect" id="node4" href="$d8/d35/classprolog_1_1Init_a3e8704cf8b2d909fccc79e967dd48171.html#a3e8704cf8b2d909fccc79e967dd48171" title="prolog.Init.standardTop" alt="" coords="181,107,336,133"/>
+</map>

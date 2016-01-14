@@ -1,0 +1,10 @@
+<map id="prolog.terms.Unfolder.trace_nomatch" name="prolog.terms.Unfolder.trace_nomatch">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_af1569a19ab5774ae5658b74cbacdbc11.html#af1569a19ab5774ae5658b74cbacdbc11" title="Prints out a term to a String with variables named in order V1, V2,.... " alt="" coords="233,56,397,83"/>
+<area shape="rect" id="node7" href="$d4/dc2/classprolog_1_1io_1_1IO_ad851906c6ebd6559eb1b1fa52e26dabb.html#ad851906c6ebd6559eb1b1fa52e26dabb" title="prolog.io.IO.println" alt="" coords="251,107,379,133"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_a50d0b69d48782ff4bcf433c70c1472a0.html#a50d0b69d48782ff4bcf433c70c1472a0" title="Replaces variables with uppercase constants named `V1&#39;, &#39;V2&#39;, etc. " alt="" coords="445,56,645,83"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_a01e5a83e648ee3f89415c0142c4220d4.html#a01e5a83e648ee3f89415c0142c4220d4" title="Returns a copy of a term with variables standardized apart (`fresh variables&#39;). " alt="" coords="693,5,853,32"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="901,31,1080,57"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="1128,31,1295,57"/>
+<area shape="rect" id="node8" href="$d4/dc2/classprolog_1_1io_1_1IO_aab64872af087c6cd9c5dd13e9f4eda00.html#aab64872af087c6cd9c5dd13e9f4eda00" title="prolog.io.IO.print" alt="" coords="486,107,605,133"/>
+<area shape="rect" id="node9" href="$d6/d92/interfaceprolog_1_1io_1_1IOPeer_abc1f90b85b358011e2595069d38ac25f.html#abc1f90b85b358011e2595069d38ac25f" title="prolog.io.IOPeer.print" alt="" coords="701,107,846,133"/>
+</map>

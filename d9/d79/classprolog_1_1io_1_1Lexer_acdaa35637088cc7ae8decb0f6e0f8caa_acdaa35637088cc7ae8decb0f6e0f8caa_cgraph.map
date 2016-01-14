@@ -1,0 +1,7 @@
+<map id="prolog.io.Lexer.make_var" name="prolog.io.Lexer.make_var">
+<area shape="rect" id="node2" href="$d1/d12/classprolog_1_1terms_1_1Var_acfca7d3a30509a6a0761be57e408cfad.html#acfca7d3a30509a6a0761be57e408cfad" title="prolog.terms.Var.toString" alt="" coords="221,31,388,57"/>
+<area shape="rect" id="node3" href="$d1/d12/classprolog_1_1terms_1_1Var_a2194ec6eec940cc349b828f6fefcf242.html#a2194ec6eec940cc349b828f6fefcf242" title="prolog.terms.Var.unbound" alt="" coords="639,5,809,32"/>
+<area shape="rect" id="node4" href="$d1/d12/classprolog_1_1terms_1_1Var_ac525ffcba1be06da9b81dcdb2605eaf6.html#ac525ffcba1be06da9b81dcdb2605eaf6" title="prolog.terms.Var.name" alt="" coords="436,31,591,57"/>
+<area shape="rect" id="node5" href="$d1/d12/classprolog_1_1terms_1_1Var_a87e5778e2b3535a88d8750f0776fb900.html#a87e5778e2b3535a88d8750f0776fb900" title="prolog.terms.Var.ref" alt="" coords="445,81,582,108"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="651,81,797,108"/>
+</map>

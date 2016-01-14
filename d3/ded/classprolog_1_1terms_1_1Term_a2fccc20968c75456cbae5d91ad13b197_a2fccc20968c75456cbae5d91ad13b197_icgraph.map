@@ -1,0 +1,5 @@
+<map id="prolog.terms.Term.bind_to" name="prolog.terms.Term.bind_to">
+<area shape="rect" id="node2" href="$d4/de0/classprolog_1_1terms_1_1Nonvar_a6933ed63df99016dbd1b69d842ec738c.html#a6933ed63df99016dbd1b69d842ec738c" title="prolog.terms.Nonvar.unify_to" alt="" coords="228,5,419,32"/>
+<area shape="rect" id="node3" href="$d1/d12/classprolog_1_1terms_1_1Var_adc67540985b9489fba3c9c34222aeb7d.html#adc67540985b9489fba3c9c34222aeb7d" title="prolog.terms.Var.unify_to" alt="" coords="239,56,407,83"/>
+<area shape="rect" id="node4" href="$de/d8d/classprolog_1_1terms_1_1Fun_a8effbc46f2c14d252bb5c68a399d96a8.html#a8effbc46f2c14d252bb5c68a399d96a8" title="prolog.terms.Fun.unify_to" alt="" coords="238,107,409,133"/>
+</map>

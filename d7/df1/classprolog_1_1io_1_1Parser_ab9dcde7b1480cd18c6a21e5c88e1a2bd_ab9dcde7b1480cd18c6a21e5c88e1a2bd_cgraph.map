@@ -1,0 +1,18 @@
+<map id="prolog.io.Parser.getList" name="prolog.io.Parser.getList">
+<area shape="rect" id="node2" href="$d7/df1/classprolog_1_1io_1_1Parser_aa2150bc0ca63050e058a5041b719dd7b.html#aa2150bc0ca63050e058a5041b719dd7b" title="prolog.io.Parser.getListCont" alt="" coords="209,81,393,108"/>
+<area shape="rect" id="node3" href="$d7/df1/classprolog_1_1io_1_1Parser_ae301f1d607ff1269917a097eda95199a.html#ae301f1d607ff1269917a097eda95199a" title="prolog.io.Parser.getTerm" alt="" coords="441,31,607,57"/>
+<area shape="rect" id="node4" href="$d9/d79/classprolog_1_1io_1_1Lexer_af90567b8e92b07af09c8f60a587d8404.html#af90567b8e92b07af09c8f60a587d8404" title="prolog.io.Lexer.next" alt="" coords="655,81,791,108"/>
+<area shape="rect" id="node5" href="$d9/d79/classprolog_1_1io_1_1Lexer_a4cfb6744572df2bf663b200438b38f6f.html#a4cfb6744572df2bf663b200438b38f6f" title="prolog.io.Lexer.char2string" alt="" coords="839,5,1013,32"/>
+<area shape="rect" id="node6" href="$d9/d79/classprolog_1_1io_1_1Lexer_a9fbdd67572706c48a026047f818f2e7a.html#a9fbdd67572706c48a026047f818f2e7a" title="prolog.io.Lexer.getWord" alt="" coords="846,107,1006,133"/>
+<area shape="rect" id="node7" href="$d9/d79/classprolog_1_1io_1_1Lexer_ae4ec88cd8a3650b3d9af2b4f5e7a9bbc.html#ae4ec88cd8a3650b3d9af2b4f5e7a9bbc" title="prolog.io.Lexer.make\l_const" alt="" coords="1075,41,1218,82"/>
+<area shape="rect" id="node15" href="$d9/d79/classprolog_1_1io_1_1Lexer_a0575f9ce24d7bdce0ed6f08903d57061.html#a0575f9ce24d7bdce0ed6f08903d57061" title="prolog.io.Lexer.make\l_number" alt="" coords="855,201,997,242"/>
+<area shape="rect" id="node8" href="$d9/d79/classprolog_1_1io_1_1Lexer_a6c9bf5b9540046d85bedfd6b9cf12d39.html#a6c9bf5b9540046d85bedfd6b9cf12d39" title="prolog.io.Lexer.make_fun" alt="" coords="1063,107,1231,133"/>
+<area shape="rect" id="node9" href="$d9/d79/classprolog_1_1io_1_1Lexer_acdaa35637088cc7ae8decb0f6e0f8caa.html#acdaa35637088cc7ae8decb0f6e0f8caa" title="prolog.io.Lexer.make_var" alt="" coords="1063,157,1231,184"/>
+<area shape="rect" id="node10" href="$d1/d12/classprolog_1_1terms_1_1Var_acfca7d3a30509a6a0761be57e408cfad.html#acfca7d3a30509a6a0761be57e408cfad" title="prolog.terms.Var.toString" alt="" coords="1280,157,1447,184"/>
+<area shape="rect" id="node11" href="$d1/d12/classprolog_1_1terms_1_1Var_a2194ec6eec940cc349b828f6fefcf242.html#a2194ec6eec940cc349b828f6fefcf242" title="prolog.terms.Var.unbound" alt="" coords="1697,132,1868,159"/>
+<area shape="rect" id="node12" href="$d1/d12/classprolog_1_1terms_1_1Var_ac525ffcba1be06da9b81dcdb2605eaf6.html#ac525ffcba1be06da9b81dcdb2605eaf6" title="prolog.terms.Var.name" alt="" coords="1495,157,1649,184"/>
+<area shape="rect" id="node13" href="$d1/d12/classprolog_1_1terms_1_1Var_a87e5778e2b3535a88d8750f0776fb900.html#a87e5778e2b3535a88d8750f0776fb900" title="prolog.terms.Var.ref" alt="" coords="1503,208,1641,235"/>
+<area shape="rect" id="node14" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="1709,208,1856,235"/>
+<area shape="rect" id="node16" href="$d9/d79/classprolog_1_1io_1_1Lexer_aa7b44ceb64d095b1342b77ff73e28e58.html#aa7b44ceb64d095b1342b77ff73e28e58" title="prolog.io.Lexer.make_int" alt="" coords="1065,208,1229,235"/>
+<area shape="rect" id="node17" href="$d9/d79/classprolog_1_1io_1_1Lexer_aa712569cb1f11c42f18982b57dd13832.html#aa712569cb1f11c42f18982b57dd13832" title="prolog.io.Lexer.make_real" alt="" coords="1061,259,1232,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="prolog.terms.VarNumberer" name="prolog.terms.VarNumberer">
+<area shape="rect" id="node2" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="5,825,187,976"/>
+<area shape="rect" id="node3" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="26,655,166,776"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="31,132,161,605"/>
+<area shape="rect" id="node7" href="$de/dd4/classprolog_1_1fluents_1_1HashDict.html" title="General purpose dictionary. " alt="" coords="211,855,370,947"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="prolog.fluents.DataBase.streamToProg" name="prolog.fluents.DataBase.streamToProg">
+<area shape="rect" id="node2" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a09001c9a02b98909be7fc84934418ed6.html#a09001c9a02b98909be7fc84934418ed6" title="prolog.fluents.DataBase.file\lToProg" alt="" coords="260,49,443,90"/>
+<area shape="rect" id="node3" href="$da/dd9/classprolog_1_1fluents_1_1DataBase_a8b4fed48561a1c3086c94900495508d2.html#a8b4fed48561a1c3086c94900495508d2" title="consults or reconsults a Prolog file by adding or overriding existing predicates to be extended to lo..." alt="" coords="491,56,704,83"/>
+<area shape="rect" id="node4" href="$d4/d86/classprolog_1_1builtins_1_1reconsult_af4fc0f95b6190b657cdac0b5fbc3240f.html#af4fc0f95b6190b657cdac0b5fbc3240f" title="prolog.builtins.reconsult.exec" alt="" coords="752,5,943,32"/>
+<area shape="rect" id="node5" href="$de/def/classprolog_1_1builtins_1_1consult_ada1aa218c46073859081290f7e820d0f.html#ada1aa218c46073859081290f7e820d0f" title="prolog.builtins.consult.exec" alt="" coords="757,56,937,83"/>
+<area shape="rect" id="node6" href="$dd/dcc/classprolog_1_1builtins_1_1reconsult__again_af072d724d06b6e38550d6c8d21e10d19.html#af072d724d06b6e38550d6c8d21e10d19" title="prolog.builtins.reconsult\l_again.exec" alt="" coords="768,107,927,149"/>
+</map>

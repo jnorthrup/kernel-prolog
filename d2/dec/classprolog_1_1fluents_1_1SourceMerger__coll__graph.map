@@ -1,0 +1,9 @@
+<map id="prolog.fluents.SourceMerger" name="prolog.fluents.SourceMerger">
+<area shape="rect" id="node2" href="$d3/d7c/classprolog_1_1fluents_1_1JavaSource.html" title="Builds Prolog Iterators from Java Sequences and Iterator type classes. " alt="" coords="59,1720,232,1856"/>
+<area shape="rect" id="node3" href="$d2/d07/classprolog_1_1terms_1_1Source.html" title="{prolog.terms.Source\n||+ Source()\l+ getElement()\l+ toList()\l+ toFun()\l}" alt="" coords="5,1536,144,1657"/>
+<area shape="rect" id="node4" href="$d9/d3b/classprolog_1_1terms_1_1Fluent.html" title="A Fluent is a Prolog Object which has its own state, subject to changes over time. " alt="" coords="46,1336,181,1487"/>
+<area shape="rect" id="node5" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="47,1136,228,1287"/>
+<area shape="rect" id="node6" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="86,965,226,1087"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="97,132,228,605"/>
+<area shape="rect" id="node11" href="$de/d23/classprolog_1_1fluents_1_1Queue.html" title="Generic dynamic Queeue with (amortized) O(1) enq/deq (add and remove) operations. ..." alt="" coords="197,629,339,941"/>
+</map>

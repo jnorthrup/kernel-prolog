@@ -1,0 +1,7 @@
+<map id="prolog.terms.Conj" name="prolog.terms.Conj">
+<area shape="rect" id="node2" href="$d1/d10/classprolog_1_1terms_1_1Cons.html" title="List Constructor. " alt="" coords="17,1556,147,1692"/>
+<area shape="rect" id="node3" href="$de/d8d/classprolog_1_1terms_1_1Fun.html" title="Implements compound terms. " alt="" coords="10,1152,154,1508"/>
+<area shape="rect" id="node4" href="$d0/d3f/classprolog_1_1terms_1_1Const.html" title="Symbolic constant, of arity 0. " alt="" coords="15,821,149,1104"/>
+<area shape="rect" id="node5" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="12,652,152,773"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="17,131,147,604"/>
+</map>

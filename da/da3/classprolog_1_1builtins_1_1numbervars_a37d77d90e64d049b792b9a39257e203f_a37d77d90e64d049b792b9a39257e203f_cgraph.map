@@ -1,0 +1,12 @@
+<map id="prolog.builtins.numbervars.exec" name="prolog.builtins.numbervars.exec">
+<area shape="rect" id="node2" href="$de/d8d/classprolog_1_1terms_1_1Fun_a95f487cd7555adbc0ae1a08076a0404d.html#a95f487cd7555adbc0ae1a08076a0404d" title="prolog.terms.Fun.getArg" alt="" coords="279,107,441,133"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_a50d0b69d48782ff4bcf433c70c1472a0.html#a50d0b69d48782ff4bcf433c70c1472a0" title="Replaces variables with uppercase constants named `V1&#39;, &#39;V2&#39;, etc. " alt="" coords="260,56,460,83"/>
+<area shape="rect" id="node8" href="$de/d8d/classprolog_1_1terms_1_1Fun_a408f688b791b731a83c6a41a8ee32fb0.html#a408f688b791b731a83c6a41a8ee32fb0" title="prolog.terms.Fun.putArg" alt="" coords="279,157,441,184"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="744,132,891,159"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_a01e5a83e648ee3f89415c0142c4220d4.html#a01e5a83e648ee3f89415c0142c4220d4" title="Returns a copy of a term with variables standardized apart (`fresh variables&#39;). " alt="" coords="514,5,674,32"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="728,31,907,57"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="955,31,1121,57"/>
+<area shape="rect" id="node9" href="$d3/ded/classprolog_1_1terms_1_1Term_a84d8fb7e1f816d0dbe3c2c56ed28fdb9.html#a84d8fb7e1f816d0dbe3c2c56ed28fdb9" title="Dereference and unify_to. " alt="" coords="514,208,674,235"/>
+<area shape="rect" id="node11" href="$d4/d26/classprolog_1_1terms_1_1Prog_a41eac8617a5002806d7137eb36183405.html#a41eac8617a5002806d7137eb36183405" title="prolog.terms.Prog.getTrail" alt="" coords="508,157,680,184"/>
+<area shape="rect" id="node10" href="$d3/ded/classprolog_1_1terms_1_1Term_a866b2cca50e77e99b560578b2fa3a91a.html#a866b2cca50e77e99b560578b2fa3a91a" title="Unify dereferenced. " alt="" coords="728,208,907,235"/>
+</map>

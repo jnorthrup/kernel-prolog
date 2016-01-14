@@ -1,0 +1,6 @@
+<map id="prolog.terms.Source" name="prolog.terms.Source">
+<area shape="rect" id="node2" href="$d9/d3b/classprolog_1_1terms_1_1Fluent.html" title="A Fluent is a Prolog Object which has its own state, subject to changes over time. " alt="" coords="29,1020,163,1171"/>
+<area shape="rect" id="node3" href="$d6/dc1/classprolog_1_1terms_1_1SystemObject.html" title="A SystemObject is a Nonvar with system assigned name. " alt="" coords="5,821,187,972"/>
+<area shape="rect" id="node4" href="$d4/de0/classprolog_1_1terms_1_1Nonvar.html" title="Part of the Prolog Term hierarchy. " alt="" coords="26,652,166,773"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term.html" title="Top element of the Prolog term hierarchy. " alt="" coords="31,131,161,604"/>
+</map>

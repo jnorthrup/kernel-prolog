@@ -1,0 +1,10 @@
+<map id="prolog.builtins.source_list.exec" name="prolog.builtins.source_list.exec">
+<area shape="rect" id="node2" href="$de/d8d/classprolog_1_1terms_1_1Fun_a95f487cd7555adbc0ae1a08076a0404d.html#a95f487cd7555adbc0ae1a08076a0404d" title="prolog.terms.Fun.getArg" alt="" coords="205,12,367,39"/>
+<area shape="rect" id="node4" href="$de/d8d/classprolog_1_1terms_1_1Fun_a408f688b791b731a83c6a41a8ee32fb0.html#a408f688b791b731a83c6a41a8ee32fb0" title="prolog.terms.Fun.putArg" alt="" coords="205,69,367,96"/>
+<area shape="rect" id="node8" href="$d2/d07/classprolog_1_1terms_1_1Source_aa40a822d3598499665728d7ae0e46d34.html#aa40a822d3598499665728d7ae0e46d34" title="prolog.terms.Source.toList" alt="" coords="199,132,373,159"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="695,5,841,32"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_a84d8fb7e1f816d0dbe3c2c56ed28fdb9.html#a84d8fb7e1f816d0dbe3c2c56ed28fdb9" title="Dereference and unify_to. " alt="" coords="446,56,606,83"/>
+<area shape="rect" id="node7" href="$d4/d26/classprolog_1_1terms_1_1Prog_a41eac8617a5002806d7137eb36183405.html#a41eac8617a5002806d7137eb36183405" title="prolog.terms.Prog.getTrail" alt="" coords="440,107,612,133"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term_a866b2cca50e77e99b560578b2fa3a91a.html#a866b2cca50e77e99b560578b2fa3a91a" title="Unify dereferenced. " alt="" coords="679,56,857,83"/>
+<area shape="rect" id="node9" href="$d2/d07/classprolog_1_1terms_1_1Source_a80edbb7a5e2e465563e161990957b736.html#a80edbb7a5e2e465563e161990957b736" title="prolog.terms.Source.getElement" alt="" coords="421,157,631,184"/>
+</map>

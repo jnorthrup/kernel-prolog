@@ -1,0 +1,4 @@
+<map id="prolog.terms.Clause.checkIfGround" name="prolog.terms.Clause.checkIfGround">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_a9b2d3afe2dde56b3e2cba78e9280636c.html#a9b2d3afe2dde56b3e2cba78e9280636c" title="returns or fakes an arity for all subtypes " alt="" coords="232,5,409,32"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_ac42ec640f377593fd9bee606478b6984.html#ac42ec640f377593fd9bee606478b6984" title="Returns &#39;[]&#39;(V1,V2,..Vn) where Vi is a variable occuring in this Term. " alt="" coords="235,56,406,83"/>
+</map>

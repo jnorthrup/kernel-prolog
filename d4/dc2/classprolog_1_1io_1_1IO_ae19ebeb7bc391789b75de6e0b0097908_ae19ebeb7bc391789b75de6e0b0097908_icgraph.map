@@ -1,0 +1,14 @@
+<map id="prolog.io.IO.getStdInput" name="prolog.io.IO.getStdInput">
+<area shape="rect" id="node2" href="$d4/dc2/classprolog_1_1io_1_1IO_a4604d4d86f3043f525dd9362720b9264.html#a4604d4d86f3043f525dd9362720b9264" title="prolog.io.IO.readln" alt="" coords="213,162,341,189"/>
+<area shape="rect" id="node3" href="$d4/dc2/classprolog_1_1io_1_1IO_a09da8fec5af0245e24996fe5a0addfdd.html#a09da8fec5af0245e24996fe5a0addfdd" title="prolog.io.IO.promptln" alt="" coords="393,137,536,163"/>
+<area shape="rect" id="node13" href="$d4/dc2/classprolog_1_1io_1_1IO_aad56a38dda814e20303e0cf6b61fce7e.html#aad56a38dda814e20303e0cf6b61fce7e" title="prolog.io.IO.read_from" alt="" coords="389,187,540,214"/>
+<area shape="rect" id="node4" href="$d5/db0/classprolog_1_1io_1_1CharReader_ad96c72b0b4d49db1eacead363b28c360.html#ad96c72b0b4d49db1eacead363b28c360" title="prolog.io.CharReader.get\lElement" alt="" coords="595,5,761,47"/>
+<area shape="rect" id="node5" href="$d4/d09/classprolog_1_1io_1_1ClauseReader_a805e9a5ebc401e1099f39af9b3f6fb47.html#a805e9a5ebc401e1099f39af9b3f6fb47" title="prolog.io.ClauseReader.get\lElement" alt="" coords="588,71,768,112"/>
+<area shape="rect" id="node6" href="$d8/d35/classprolog_1_1Init_a34787cd6b7b632c791f43b4453385aff.html#a34787cd6b7b632c791f43b4453385aff" title="reads a query from input strea " alt="" coords="1002,137,1130,163"/>
+<area shape="rect" id="node9" href="$d8/d35/classprolog_1_1Init_a3e8704cf8b2d909fccc79e967dd48171.html#a3e8704cf8b2d909fccc79e967dd48171" title="prolog.Init.standardTop" alt="" coords="1181,213,1336,239"/>
+<area shape="rect" id="node10" href="$d8/d35/classprolog_1_1Init_a6770cfc55af8d41a45725d0fdfd51815.html#a6770cfc55af8d41a45725d0fdfd51815" title="prolog.Init.moreAnswers" alt="" coords="597,187,759,214"/>
+<area shape="rect" id="node7" href="$d8/d35/classprolog_1_1Init_a4a827a2cfd90b291c538b46573b83d2f.html#a4a827a2cfd90b291c538b46573b83d2f" title="Asks Prolog a String query and gets back a string Answer of the form &quot;the(&#39;[]&#39;(VarsOfQuery))&quot; contain..." alt="" coords="1188,111,1329,138"/>
+<area shape="rect" id="node8" href="$d8/d35/classprolog_1_1Init_a0348efff7140aed75f8364f90b7c2b8b.html#a0348efff7140aed75f8364f90b7c2b8b" title="prolog.Init.run_query" alt="" coords="1189,162,1329,189"/>
+<area shape="rect" id="node11" href="$d8/d35/classprolog_1_1Init_a34d43d3123bb194902cbcb1c06194cce.html#a34d43d3123bb194902cbcb1c06194cce" title="evalutes a query " alt="" coords="816,187,951,214"/>
+<area shape="rect" id="node12" href="$d8/d35/classprolog_1_1Init_a2471811f50fbed4de5df26ee530f1e2e.html#a2471811f50fbed4de5df26ee530f1e2e" title="evaluates and times a Goal querying program P " alt="" coords="999,187,1133,214"/>
+</map>

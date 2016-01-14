@@ -1,0 +1,9 @@
+<map id="prolog.terms.Const.getArity" name="prolog.terms.Const.getArity">
+<area shape="rect" id="node2" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_ab27f40fd74a009d6522fa21da5387cf3.html#ab27f40fd74a009d6522fa21da5387cf3" title="Creates a new builtin. " alt="" coords="236,104,413,145"/>
+<area shape="rect" id="node3" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_a01ecc3350bab991ae4dbf53cdf9334c7.html#a01ecc3350bab991ae4dbf53cdf9334c7" title="prolog.builtins.Builtins.to\lConstBuiltin" alt="" coords="461,71,625,112"/>
+<area shape="rect" id="node6" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_a03db9f009d6e9f38f61113ec03af92b4.html#a03db9f009d6e9f38f61113ec03af92b4" title="prolog.builtins.Builtins.to\lFunBuiltin" alt="" coords="461,136,625,177"/>
+<area shape="rect" id="node4" href="$d1/d2e/classprolog_1_1io_1_1constToken_a12a684b70e30383479eeb82d58f9a5c9.html#a12a684b70e30383479eeb82d58f9a5c9" title="prolog.io.constToken.const\lToken" alt="" coords="673,5,852,47"/>
+<area shape="rect" id="node5" href="$d9/d47/classprolog_1_1builtins_1_1new__fun_a9c9d1dcf2538ad6a86d16926d744b6a3.html#a9c9d1dcf2538ad6a86d16926d744b6a3" title="prolog.builtins.new\l_fun.exec" alt="" coords="697,71,828,112"/>
+<area shape="rect" id="node7" href="$d9/d47/classprolog_1_1builtins_1_1source__term_a52ab1b08efdb52116de75b9ea92fa00e.html#a52ab1b08efdb52116de75b9ea92fa00e" title="prolog.builtins.source\l_term.exec" alt="" coords="690,136,835,177"/>
+<area shape="rect" id="node8" href="$d7/df1/classprolog_1_1io_1_1Parser_a2266a192306644bbc8e9bb4b4839708e.html#a2266a192306644bbc8e9bb4b4839708e" title="prolog.io.Parser.getTerm" alt="" coords="680,202,845,229"/>
+</map>

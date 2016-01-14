@@ -1,0 +1,11 @@
+<map id="prolog.io.IO.promptln" name="prolog.io.IO.promptln">
+<area shape="rect" id="node2" href="$d5/db0/classprolog_1_1io_1_1CharReader_ad96c72b0b4d49db1eacead363b28c360.html#ad96c72b0b4d49db1eacead363b28c360" title="prolog.io.CharReader.get\lElement" alt="" coords="203,5,369,47"/>
+<area shape="rect" id="node3" href="$d4/d09/classprolog_1_1io_1_1ClauseReader_a805e9a5ebc401e1099f39af9b3f6fb47.html#a805e9a5ebc401e1099f39af9b3f6fb47" title="prolog.io.ClauseReader.get\lElement" alt="" coords="196,71,376,112"/>
+<area shape="rect" id="node4" href="$d8/d35/classprolog_1_1Init_a34787cd6b7b632c791f43b4453385aff.html#a34787cd6b7b632c791f43b4453385aff" title="reads a query from input strea " alt="" coords="610,137,738,163"/>
+<area shape="rect" id="node7" href="$d8/d35/classprolog_1_1Init_a3e8704cf8b2d909fccc79e967dd48171.html#a3e8704cf8b2d909fccc79e967dd48171" title="prolog.Init.standardTop" alt="" coords="789,213,944,239"/>
+<area shape="rect" id="node8" href="$d8/d35/classprolog_1_1Init_a6770cfc55af8d41a45725d0fdfd51815.html#a6770cfc55af8d41a45725d0fdfd51815" title="prolog.Init.moreAnswers" alt="" coords="205,187,367,214"/>
+<area shape="rect" id="node5" href="$d8/d35/classprolog_1_1Init_a4a827a2cfd90b291c538b46573b83d2f.html#a4a827a2cfd90b291c538b46573b83d2f" title="Asks Prolog a String query and gets back a string Answer of the form &quot;the(&#39;[]&#39;(VarsOfQuery))&quot; contain..." alt="" coords="796,111,937,138"/>
+<area shape="rect" id="node6" href="$d8/d35/classprolog_1_1Init_a0348efff7140aed75f8364f90b7c2b8b.html#a0348efff7140aed75f8364f90b7c2b8b" title="prolog.Init.run_query" alt="" coords="797,162,937,189"/>
+<area shape="rect" id="node9" href="$d8/d35/classprolog_1_1Init_a34d43d3123bb194902cbcb1c06194cce.html#a34d43d3123bb194902cbcb1c06194cce" title="evalutes a query " alt="" coords="424,187,559,214"/>
+<area shape="rect" id="node10" href="$d8/d35/classprolog_1_1Init_a2471811f50fbed4de5df26ee530f1e2e.html#a2471811f50fbed4de5df26ee530f1e2e" title="evaluates and times a Goal querying program P " alt="" coords="607,187,741,214"/>
+</map>

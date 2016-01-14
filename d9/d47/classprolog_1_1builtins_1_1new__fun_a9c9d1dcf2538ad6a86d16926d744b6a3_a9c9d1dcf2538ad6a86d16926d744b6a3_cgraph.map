@@ -1,0 +1,19 @@
+<map id="prolog.builtins.new_fun.exec" name="prolog.builtins.new_fun.exec">
+<area shape="rect" id="node2" href="$d0/d3f/classprolog_1_1terms_1_1Const_a2f00757ecfe3ace23e67c5537c34cfbd.html#a2f00757ecfe3ace23e67c5537c34cfbd" title="prolog.terms.Const.Const" alt="" coords="187,5,359,32"/>
+<area shape="rect" id="node3" href="$de/d8d/classprolog_1_1terms_1_1Fun_a3d81ecf8879a3612ac7881f753627020.html#a3d81ecf8879a3612ac7881f753627020" title="prolog.terms.Fun.Fun" alt="" coords="653,107,799,133"/>
+<area shape="rect" id="node4" href="$de/d8d/classprolog_1_1terms_1_1Fun_a95f487cd7555adbc0ae1a08076a0404d.html#a95f487cd7555adbc0ae1a08076a0404d" title="prolog.terms.Fun.getArg" alt="" coords="417,427,579,453"/>
+<area shape="rect" id="node6" href="$de/d8d/classprolog_1_1terms_1_1Fun_a5f3eb69aa2e809615f0eec1bc33b9d82.html#a5f3eb69aa2e809615f0eec1bc33b9d82" title="prolog.terms.Fun.getIntArg" alt="" coords="184,376,361,403"/>
+<area shape="rect" id="node7" href="$de/d8d/classprolog_1_1terms_1_1Fun_ab02ff53de48b9a687ec53e0d66144eb7.html#ab02ff53de48b9a687ec53e0d66144eb7" title="prolog.terms.Fun.init" alt="" coords="202,528,343,555"/>
+<area shape="rect" id="node8" href="$d0/d3f/classprolog_1_1terms_1_1Const_a947005f966303baeb029a22d9201ea1b.html#a947005f966303baeb029a22d9201ea1b" title="prolog.terms.Const.name" alt="" coords="641,263,811,289"/>
+<area shape="rect" id="node9" href="$de/d8d/classprolog_1_1terms_1_1Fun_a408f688b791b731a83c6a41a8ee32fb0.html#a408f688b791b731a83c6a41a8ee32fb0" title="prolog.terms.Fun.putArg" alt="" coords="191,477,354,504"/>
+<area shape="rect" id="node13" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_a01ecc3350bab991ae4dbf53cdf9334c7.html#a01ecc3350bab991ae4dbf53cdf9334c7" title="prolog.builtins.Builtins.to\lConstBuiltin" alt="" coords="191,310,355,351"/>
+<area shape="rect" id="node16" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_a03db9f009d6e9f38f61113ec03af92b4.html#a03db9f009d6e9f38f61113ec03af92b4" title="prolog.builtins.Builtins.to\lFunBuiltin" alt="" coords="191,245,355,286"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="653,427,799,453"/>
+<area shape="rect" id="node10" href="$d3/ded/classprolog_1_1terms_1_1Term_a84d8fb7e1f816d0dbe3c2c56ed28fdb9.html#a84d8fb7e1f816d0dbe3c2c56ed28fdb9" title="Dereference and unify_to. " alt="" coords="418,477,578,504"/>
+<area shape="rect" id="node12" href="$d4/d26/classprolog_1_1terms_1_1Prog_a41eac8617a5002806d7137eb36183405.html#a41eac8617a5002806d7137eb36183405" title="prolog.terms.Prog.getTrail" alt="" coords="412,528,584,555"/>
+<area shape="rect" id="node11" href="$d3/ded/classprolog_1_1terms_1_1Term_a866b2cca50e77e99b560578b2fa3a91a.html#a866b2cca50e77e99b560578b2fa3a91a" title="Unify dereferenced. " alt="" coords="637,477,815,504"/>
+<area shape="rect" id="node14" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_ab27f40fd74a009d6522fa21da5387cf3.html#ab27f40fd74a009d6522fa21da5387cf3" title="Creates a new builtin. " alt="" coords="409,310,587,351"/>
+<area shape="rect" id="node15" href="$d0/d3f/classprolog_1_1terms_1_1Const_a425467f0c179f71ef11b4beac97ec0b6.html#a425467f0c179f71ef11b4beac97ec0b6" title="returns an arity normally defined as 0 " alt="" coords="635,317,817,344"/>
+<area shape="rect" id="node17" href="$de/d8d/classprolog_1_1terms_1_1Fun_a73b5a4f366ac3ac161f7b148f44b8cfa.html#a73b5a4f366ac3ac161f7b148f44b8cfa" title="prolog.terms.Fun.funClone" alt="" coords="410,157,586,184"/>
+<area shape="rect" id="node18" href="$de/d8d/classprolog_1_1terms_1_1Fun_a17d595f2ab8b5c173c519ad5341015c5.html#a17d595f2ab8b5c173c519ad5341015c5" title="prolog.terms.Fun.getArity" alt="" coords="413,208,583,235"/>
+</map>

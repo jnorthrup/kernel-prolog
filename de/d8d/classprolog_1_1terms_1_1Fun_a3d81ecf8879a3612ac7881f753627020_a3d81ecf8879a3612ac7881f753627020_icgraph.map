@@ -1,0 +1,15 @@
+<map id="prolog.terms.Fun.Fun" name="prolog.terms.Fun.Fun">
+<area shape="rect" id="node2" href="$de/d8d/classprolog_1_1terms_1_1Fun_a8ce6bf0c61ef743205ada4c1dbf0b18a.html#a8ce6bf0c61ef743205ada4c1dbf0b18a" title="prolog.terms.Fun.bind_to" alt="" coords="210,5,377,32"/>
+<area shape="rect" id="node3" href="$de/d8d/classprolog_1_1terms_1_1Fun_a8effbc46f2c14d252bb5c68a399d96a8.html#a8effbc46f2c14d252bb5c68a399d96a8" title="prolog.terms.Fun.unify_to" alt="" coords="446,31,617,57"/>
+<area shape="rect" id="node4" href="$d9/d04/classprolog_1_1builtins_1_1arg_ad311a643f2c747fa4f4789175e0f928a.html#ad311a643f2c747fa4f4789175e0f928a" title="prolog.builtins.arg.exec" alt="" coords="215,107,371,133"/>
+<area shape="rect" id="node5" href="$d9/d47/classprolog_1_1builtins_1_1new__fun_a9c9d1dcf2538ad6a86d16926d744b6a3.html#a9c9d1dcf2538ad6a86d16926d744b6a3" title="prolog.builtins.new\l_fun.exec" alt="" coords="693,191,824,233"/>
+<area shape="rect" id="node6" href="$df/d49/classprolog_1_1builtins_1_1collect_afdb899817cd3948a6478ee19104e1ea2.html#afdb899817cd3948a6478ee19104e1ea2" title="prolog.builtins.collect.exec" alt="" coords="205,208,381,235"/>
+<area shape="rect" id="node7" href="$de/d8d/classprolog_1_1terms_1_1Fun_a73b5a4f366ac3ac161f7b148f44b8cfa.html#a73b5a4f366ac3ac161f7b148f44b8cfa" title="prolog.terms.Fun.funClone" alt="" coords="205,267,381,293"/>
+<area shape="rect" id="node14" href="$d6/d44/classprolog_1_1io_1_1funToken_a97fdd2cf32dba26e5021582d37b6ad85.html#a97fdd2cf32dba26e5021582d37b6ad85" title="prolog.io.funToken.funToken" alt="" coords="200,317,387,344"/>
+<area shape="rect" id="node8" href="$de/d8d/classprolog_1_1terms_1_1Fun_ac2c7709c9f2c24e6f6b6cd91dc897f71.html#ac2c7709c9f2c24e6f6b6cd91dc897f71" title="prolog.terms.Fun.initialized\lClone" alt="" coords="442,209,621,250"/>
+<area shape="rect" id="node9" href="$de/d8d/classprolog_1_1terms_1_1Fun_a098b557319c0a87a433b2b1f2ada771e.html#a098b557319c0a87a433b2b1f2ada771e" title="prolog.terms.Fun.reaction" alt="" coords="446,275,617,301"/>
+<area shape="rect" id="node10" href="$d7/d2b/classprolog_1_1builtins_1_1Builtins_a03db9f009d6e9f38f61113ec03af92b4.html#a03db9f009d6e9f38f61113ec03af92b4" title="prolog.builtins.Builtins.to\lFunBuiltin" alt="" coords="449,326,613,367"/>
+<area shape="rect" id="node13" href="$de/d8d/classprolog_1_1terms_1_1Fun_a83c3b0a6e6cd36a8d91f872b614266a4.html#a83c3b0a6e6cd36a8d91f872b614266a4" title="prolog.terms.Fun.unInitialized\lClone" alt="" coords="435,391,628,433"/>
+<area shape="rect" id="node11" href="$d9/d47/classprolog_1_1builtins_1_1source__term_a52ab1b08efdb52116de75b9ea92fa00e.html#a52ab1b08efdb52116de75b9ea92fa00e" title="prolog.builtins.source\l_term.exec" alt="" coords="686,297,831,338"/>
+<area shape="rect" id="node12" href="$d7/df1/classprolog_1_1io_1_1Parser_a2266a192306644bbc8e9bb4b4839708e.html#a2266a192306644bbc8e9bb4b4839708e" title="prolog.io.Parser.getTerm" alt="" coords="676,363,841,389"/>
+</map>

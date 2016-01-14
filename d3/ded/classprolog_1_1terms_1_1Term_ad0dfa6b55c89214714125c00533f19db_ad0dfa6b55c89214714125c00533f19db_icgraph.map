@@ -1,0 +1,7 @@
+<map id="prolog.terms.Term.toUnquoted" name="prolog.terms.Term.toUnquoted">
+<area shape="rect" id="node2" href="$d5/db0/classprolog_1_1io_1_1CharReader_afca64ed6560a777f13befdf8081b2f49.html#afca64ed6560a777f13befdf8081b2f49" title="prolog.io.CharReader.Char\lReader" alt="" coords="257,5,434,47"/>
+<area shape="rect" id="node3" href="$df/de7/classprolog_1_1fluents_1_1StringSink_a1b2838ec64ad6bc6e77f8e6c46e1bfe2.html#a1b2838ec64ad6bc6e77f8e6c46e1bfe2" title="prolog.fluents.StringSink.put\lElement" alt="" coords="252,71,439,112"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_ae8200608f033511843ee4eae348103ed.html#ae8200608f033511843ee4eae348103ed" title="prolog.terms.Term.toChars" alt="" coords="256,137,435,163"/>
+<area shape="rect" id="node5" href="$db/d97/classprolog_1_1builtins_1_1name__to__chars_a7e21a55985c27994587765755c2d3744.html#a7e21a55985c27994587765755c2d3744" title="prolog.builtins.name\l_to_chars.exec" alt="" coords="500,100,639,141"/>
+<area shape="rect" id="node6" href="$d7/df1/classprolog_1_1io_1_1Parser_a2266a192306644bbc8e9bb4b4839708e.html#a2266a192306644bbc8e9bb4b4839708e" title="prolog.io.Parser.getTerm" alt="" coords="487,166,652,193"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="prolog.terms.Term.matching_copy" name="prolog.terms.Term.matching_copy">
+<area shape="rect" id="node2" href="$d3/ded/classprolog_1_1terms_1_1Term_a01e5a83e648ee3f89415c0142c4220d4.html#a01e5a83e648ee3f89415c0142c4220d4" title="Returns a copy of a term with variables standardized apart (`fresh variables&#39;). " alt="" coords="277,19,437,45"/>
+<area shape="rect" id="node5" href="$d3/ded/classprolog_1_1terms_1_1Term_a84d8fb7e1f816d0dbe3c2c56ed28fdb9.html#a84d8fb7e1f816d0dbe3c2c56ed28fdb9" title="Dereference and unify_to. " alt="" coords="277,81,437,108"/>
+<area shape="rect" id="node8" href="$dd/dad/classprolog_1_1terms_1_1Trail_adab6fa04fe8e0da6e1870bd1b37a654b.html#adab6fa04fe8e0da6e1870bd1b37a654b" title="Used to undo bindings after unification, if we intend to leave no side effects. " alt="" coords="273,157,441,184"/>
+<area shape="rect" id="node3" href="$d3/ded/classprolog_1_1terms_1_1Term_a0a660e6cd55f12e49d328e1b84b478a4.html#a0a660e6cd55f12e49d328e1b84b478a4" title="Defines the reaction to an agent recursing over the structure of a term. " alt="" coords="497,5,676,32"/>
+<area shape="rect" id="node4" href="$d3/ded/classprolog_1_1terms_1_1Term_aa52e271c0f6784dbde9aa4f5f3ab0268.html#aa52e271c0f6784dbde9aa4f5f3ab0268" title="Identity action. " alt="" coords="732,5,899,32"/>
+<area shape="rect" id="node6" href="$d3/ded/classprolog_1_1terms_1_1Term_ae140fac2c9d066dc897fcfa723060a7a.html#ae140fac2c9d066dc897fcfa723060a7a" title="Dereferences if necessary. " alt="" coords="513,56,660,83"/>
+<area shape="rect" id="node7" href="$d3/ded/classprolog_1_1terms_1_1Term_a866b2cca50e77e99b560578b2fa3a91a.html#a866b2cca50e77e99b560578b2fa3a91a" title="Unify dereferenced. " alt="" coords="497,107,676,133"/>
+<area shape="rect" id="node9" href="$da/d93/classprolog_1_1terms_1_1ObjectStack_aaa01178e10f20beab62b1410ba720606.html#aaa01178e10f20beab62b1410ba720606" title="prolog.terms.ObjectStack.pop" alt="" coords="489,157,684,184"/>
+<area shape="rect" id="node10" href="$d3/ded/classprolog_1_1terms_1_1Term_ac710eec3650309d160ca04e364804e47.html#ac710eec3650309d160ca04e364804e47" title="prolog.terms.Term.undo" alt="" coords="507,208,667,235"/>
+</map>
